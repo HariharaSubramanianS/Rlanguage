@@ -1,0 +1,40 @@
+      age                   workclass         fnlwgt       
+ Min.   :17.00   Private         :22696   Min.   :  12285  
+ 1st Qu.:28.00   Self-emp-not-inc: 2541   1st Qu.: 117827  
+ Median :37.00   Local-gov       : 2093   Median : 178356  
+ Mean   :38.58   NaN             : 1836   Mean   : 189778  
+ 3rd Qu.:48.00   State-gov       : 1298   3rd Qu.: 237051  
+ Max.   :90.00   Self-emp-inc    : 1116   Max.   :1484705  
+                 (Other)         :  981                    
+        education     education_num                 marital.status 
+ HS-grad     :10501   Min.   : 1.00   Divorced             : 4443  
+ Some-college: 7291   1st Qu.: 9.00   Married-AF-spouse    :   23  
+ Bachelors   : 5355   Median :10.00   Married-civ-spouse   :14976  
+ Masters     : 1723   Mean   :10.08   Married-spouse-absent:  418  
+ Assoc-voc   : 1382   3rd Qu.:12.00   Never-married        :10683  
+ 11th        : 1175   Max.   :16.00   Separated            : 1025  
+ (Other)     : 5134                   Widowed              :  993  
+           occupation           relationship                   race      
+ Prof-specialty :4140   Husband       :13193   Amer-Indian-Eskimo:  311  
+ Craft-repair   :4099   Not-in-family : 8305   Asian-Pac-Islander: 1039  
+ Exec-managerial:4066   Other-relative:  981   Black             : 3124  
+ Adm-clerical   :3770   Own-child     : 5068   Other             :  271  
+ Sales          :3650   Unmarried     : 3446   White             :27816  
+ Other-service  :3295   Wife          : 1568                             
+ (Other)        :9541                                                    
+    gender       capitalGain     capitalLoss      hoursPerWeek  
+ Female:10771   Min.   :    0   Min.   :   0.0   Min.   : 1.00  
+ Male  :21790   1st Qu.:    0   1st Qu.:   0.0   1st Qu.:40.00  
+                Median :    0   Median :   0.0   Median :40.00  
+                Mean   : 1078   Mean   :  87.3   Mean   :40.44  
+                3rd Qu.:    0   3rd Qu.:   0.0   3rd Qu.:45.00  
+                Max.   :99999   Max.   :4356.0   Max.   :99.00  
+                                                                
+       nativeCountry     income     
+ United-States:29170   <=50K:24720  
+ Mexico       :  643   >50K : 7841  
+ NaN          :  583                
+ Philippines  :  198                
+ Germany      :  137                
+ Canada       :  121                
+ (Other)      : 1709                
