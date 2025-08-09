@@ -1,0 +1,1001 @@
+Date,Region,District,Store ID,Units Sold,Sales ($),Cost ($),Profit ($),Discount (%),Customer Satisfaction
+2025-07-01,South,"French Quarter, LA",100,81,10337,8543,1794,9,4.1
+2025-07-02,Northeast,"Manhattan, NY",101,94,13009,11360,1649,5,4.1
+2025-07-03,South,"Buckhead, GA",102,79,10864,9249,1615,7,4.6
+2025-07-04,Northeast,"Chelsea, NY",103,105,12786,10418,2368,8,4.2
+2025-07-05,Northeast,"Chelsea, NY",104,64,6892,5803,1089,10,4.5
+2025-07-06,South,"Hyde Park, Tampa",105,79,11573,10227,1346,10,4.2
+2025-07-07,West,"Hillcrest, San Diego",106,86,11561,10202,1359,10,4.2
+2025-07-08,Northeast,"Downtown, Providence",107,109,9318,6404,2914,5,4.5
+2025-07-09,South,"Hyde Park, Tampa",108,101,10207,8429,1778,8,4.0
+2025-07-10,West,"Downtown, LA, CA",109,120,10789,7880,2909,5,4.0
+2025-07-01,Northeast,"Fishtown, Philly",110,121,11683,8986,2697,6,4.2
+2025-07-02,West,"Capitol Hill, WA",111,50,12085,10897,1188,6,4.2
+2025-07-03,Northeast,"Fishtown, Philly",112,108,12147,9105,3042,8,4.5
+2025-07-04,West,"Downtown, LA, CA",113,70,12665,9514,3151,5,4.3
+2025-07-05,Northeast,"Downtown, Providence",114,60,13555,11097,2458,5,4.0
+2025-07-06,Midwest,"Downtown, Detroit",115,114,7661,6177,1484,8,4.5
+2025-07-07,Northeast,"Fishtown, Philly",116,52,13622,9999,3623,7,4.1
+2025-07-08,South,"Buckhead, GA",117,68,12588,8638,3950,5,4.7
+2025-07-09,Midwest,"Uptown, Minneapolis",118,64,14912,10962,3950,5,4.8
+2025-07-10,West,"Pearl District, OR",119,109,9145,6766,2379,9,4.3
+2025-07-01,South,"Hyde Park, Tampa",120,119,13274,9914,3360,5,4.8
+2025-07-02,South,"Hyde Park, Tampa",121,124,12782,11682,1100,10,4.4
+2025-07-03,South,"The Heights, TX",122,99,7891,5069,2822,9,4.3
+2025-07-04,Northeast,"Fishtown, Philly",123,76,11374,8741,2633,9,4.6
+2025-07-05,Northeast,"Fishtown, Philly",124,110,12726,10269,2457,5,4.3
+2025-07-06,West,"Beverly Hills, CA",125,81,12458,9551,2907,6,4.5
+2025-07-07,West,"Beverly Hills, CA",126,92,11074,8264,2810,9,4.8
+2025-07-08,Midwest,"Loop, Chicago, IL",127,112,10001,7549,2452,10,4.1
+2025-07-09,West,"Pearl District, OR",128,77,14856,11864,2992,8,4.6
+2025-07-10,Midwest,"Downtown, Detroit",129,87,8559,7329,1230,6,4.1
+2025-07-01,West,"SoMa, SF, CA",130,116,9815,8412,1403,7,4.3
+2025-07-02,West,"Capitol Hill, WA",131,104,13194,11567,1627,5,4.2
+2025-07-03,South,"French Quarter, LA",132,75,10520,7944,2576,5,4.6
+2025-07-04,West,"Capitol Hill, WA",133,124,11153,8216,2937,7,4.4
+2025-07-05,South,"Buckhead, GA",134,85,9372,6732,2640,6,4.7
+2025-07-06,South,"French Quarter, LA",135,68,8078,5626,2452,10,4.6
+2025-07-07,South,"French Quarter, LA",136,124,13313,11288,2025,8,4.1
+2025-07-08,Midwest,"Short North, Columbus",137,79,12457,9563,2894,6,4.7
+2025-07-09,Northeast,"Manhattan, NY",138,85,8432,6744,1688,8,4.6
+2025-07-10,Northeast,"Manhattan, NY",139,123,10541,7890,2651,6,4.1
+2025-07-01,South,"Midtown, Atlanta",140,68,15209,11381,3828,7,4.8
+2025-07-02,South,"Buckhead, GA",141,122,8975,5618,3357,7,4.7
+2025-07-03,West,"Capitol Hill, WA",142,94,12609,9183,3426,10,4.5
+2025-07-04,West,"Capitol Hill, WA",143,74,12571,10262,2309,6,4.6
+2025-07-05,Midwest,"Short North, Columbus",144,121,14017,11686,2331,10,4.6
+2025-07-06,Midwest,"Loop, Chicago, IL",145,118,10741,8732,2009,10,4.9
+2025-07-07,Midwest,"Downtown, Detroit",146,90,13971,11786,2185,5,4.7
+2025-07-08,Midwest,"Uptown, Minneapolis",147,81,7998,5692,2306,9,4.1
+2025-07-09,West,"Beverly Hills, CA",148,60,11919,9753,2166,8,4.6
+2025-07-10,Midwest,"Uptown, Minneapolis",149,108,9574,8195,1379,7,4.7
+2025-07-01,Northeast,"Downtown, Providence",150,114,9016,7968,1048,7,4.3
+2025-07-02,West,"Beverly Hills, CA",151,83,14351,10937,3414,5,4.5
+2025-07-03,Northeast,"Chelsea, NY",152,65,12949,11115,1834,7,4.7
+2025-07-04,Midwest,"Loop, Chicago, IL",153,76,12966,10592,2374,10,4.8
+2025-07-05,Northeast,"Back Bay, Boston",154,62,9757,5968,3789,6,4.8
+2025-07-06,Midwest,"Short North, Columbus",155,113,12935,10374,2561,8,4.6
+2025-07-07,South,"Midtown, Atlanta",156,112,11317,8858,2459,6,4.2
+2025-07-08,South,"Midtown, Atlanta",157,124,15512,11718,3794,6,4.6
+2025-07-09,West,"Capitol Hill, WA",158,93,13752,11796,1956,5,4.7
+2025-07-10,South,"French Quarter, LA",159,57,12051,10898,1153,5,4.5
+2025-07-01,South,"French Quarter, LA",160,122,13496,10933,2563,9,4.1
+2025-07-02,Midwest,"Uptown, Minneapolis",161,66,10212,7195,3017,8,4.5
+2025-07-03,South,"The Heights, TX",162,93,7872,6613,1259,8,4.4
+2025-07-04,West,"Beverly Hills, CA",163,67,11107,7841,3266,9,4.5
+2025-07-05,Northeast,"Manhattan, NY",164,103,12098,10464,1634,7,4.5
+2025-07-06,South,"French Quarter, LA",165,120,8885,6391,2494,9,4.5
+2025-07-07,Midwest,"Short North, Columbus",166,86,9583,6779,2804,6,4.5
+2025-07-08,South,"Hyde Park, Tampa",167,67,14152,11697,2455,9,4.4
+2025-07-09,Northeast,"Fishtown, Philly",168,77,12115,8904,3211,8,4.1
+2025-07-10,South,"Midtown, Atlanta",169,86,8931,5585,3346,8,4.6
+2025-07-01,Midwest,"Loop, Chicago, IL",170,60,10706,9420,1286,5,4.0
+2025-07-02,Midwest,"Downtown, Detroit",171,70,9361,6827,2534,9,4.1
+2025-07-03,Midwest,"Downtown, Detroit",172,125,9033,7354,1679,9,4.8
+2025-07-04,Midwest,"Short North, Columbus",173,100,9203,7988,1215,7,4.0
+2025-07-05,Midwest,"Short North, Columbus",174,104,9724,7268,2456,10,4.7
+2025-07-06,Northeast,"Downtown, Providence",175,68,9765,6560,3205,6,4.2
+2025-07-07,West,"Beverly Hills, CA",176,107,12899,10919,1980,10,4.8
+2025-07-08,Northeast,"Manhattan, NY",177,109,10189,6662,3527,5,4.7
+2025-07-09,Midwest,"Downtown, Detroit",178,119,14885,10989,3896,10,4.6
+2025-07-10,West,"Capitol Hill, WA",179,125,11685,9534,2151,10,4.0
+2025-07-01,South,"The Heights, TX",180,62,12818,11072,1746,10,4.4
+2025-07-02,Midwest,"Downtown, Detroit",181,66,12140,10328,1812,9,4.0
+2025-07-03,Northeast,"Downtown, Providence",182,96,11694,7978,3716,9,4.9
+2025-07-04,Northeast,"Manhattan, NY",183,59,11251,9237,2014,7,4.9
+2025-07-05,West,"Capitol Hill, WA",184,76,9544,8130,1414,9,4.6
+2025-07-06,South,"Buckhead, GA",185,52,12693,10404,2289,6,4.8
+2025-07-07,West,"SoMa, SF, CA",186,108,8280,6995,1285,10,4.6
+2025-07-08,West,"Hillcrest, San Diego",187,77,14264,10670,3594,6,4.2
+2025-07-09,South,"Midtown, Atlanta",188,126,12578,9066,3512,5,4.3
+2025-07-10,Northeast,"Downtown, Providence",189,97,9660,6079,3581,9,4.8
+2025-07-01,West,"Hillcrest, San Diego",190,116,11816,9770,2046,7,4.4
+2025-07-02,Northeast,"Fishtown, Philly",191,79,13763,11545,2218,5,4.3
+2025-07-03,Northeast,"Manhattan, NY",192,88,9387,8055,1332,6,4.6
+2025-07-04,West,"Hillcrest, San Diego",193,60,14492,11431,3061,6,4.5
+2025-07-05,West,"Pearl District, OR",194,91,12504,11414,1090,8,4.7
+2025-07-06,Northeast,"Downtown, Providence",195,59,9982,7870,2112,10,4.8
+2025-07-07,West,"Pearl District, OR",196,129,10357,8268,2089,9,4.8
+2025-07-08,West,"Beverly Hills, CA",197,117,10622,7504,3118,6,4.6
+2025-07-09,Northeast,"Manhattan, NY",198,57,9706,8564,1142,10,4.3
+2025-07-10,Midwest,"Uptown, Minneapolis",199,51,8653,7526,1127,10,4.6
+2025-07-01,Northeast,"Chelsea, NY",200,121,14037,10394,3643,9,4.1
+2025-07-02,West,"Pearl District, OR",201,50,8140,6312,1828,5,4.1
+2025-07-03,Midwest,"Short North, Columbus",202,70,13069,10667,2402,9,4.9
+2025-07-04,West,"Downtown, LA, CA",203,59,6986,5728,1258,5,4.5
+2025-07-05,West,"Pearl District, OR",204,51,14149,11994,2155,7,4.4
+2025-07-06,South,"Midtown, Atlanta",205,95,10071,8771,1300,6,4.7
+2025-07-07,Midwest,"Loop, Chicago, IL",206,121,8856,6511,2345,9,4.8
+2025-07-08,Northeast,"Manhattan, NY",207,107,11975,9164,2811,10,4.8
+2025-07-09,Northeast,"Downtown, Providence",208,98,8614,5158,3456,10,4.2
+2025-07-10,West,"Downtown, LA, CA",209,117,8879,6164,2715,6,4.5
+2025-07-01,West,"Beverly Hills, CA",210,81,8621,7203,1418,6,4.2
+2025-07-02,Midwest,"Downtown, Detroit",211,96,10677,7567,3110,10,4.1
+2025-07-03,West,"SoMa, SF, CA",212,102,7971,6563,1408,9,4.2
+2025-07-04,Northeast,"Fishtown, Philly",213,78,9073,7622,1451,10,4.0
+2025-07-05,West,"Beverly Hills, CA",214,89,9834,8201,1633,6,4.8
+2025-07-06,South,"French Quarter, LA",215,56,11277,8057,3220,7,4.1
+2025-07-07,West,"SoMa, SF, CA",216,94,15030,11348,3682,5,4.3
+2025-07-08,West,"SoMa, SF, CA",217,60,8460,6580,1880,6,4.6
+2025-07-09,South,"The Heights, TX",218,62,9772,8457,1315,10,4.8
+2025-07-10,Northeast,"Chelsea, NY",219,93,13836,11854,1982,8,4.8
+2025-07-01,South,"French Quarter, LA",220,62,6990,5282,1708,7,4.3
+2025-07-02,Northeast,"Fishtown, Philly",221,55,11237,8194,3043,7,4.9
+2025-07-03,South,"Midtown, Atlanta",222,65,10303,7776,2527,6,4.7
+2025-07-04,West,"Hillcrest, San Diego",223,67,8798,7494,1304,10,4.5
+2025-07-05,South,"French Quarter, LA",224,51,6480,5158,1322,5,4.6
+2025-07-06,West,"Pearl District, OR",225,90,12176,8398,3778,5,4.6
+2025-07-07,West,"Beverly Hills, CA",226,114,10610,9490,1120,7,4.1
+2025-07-08,West,"Beverly Hills, CA",227,65,8472,5305,3167,5,4.3
+2025-07-09,West,"Pearl District, OR",228,86,9064,7048,2016,7,4.4
+2025-07-10,South,"French Quarter, LA",229,80,11343,10225,1118,8,4.8
+2025-07-01,South,"French Quarter, LA",230,96,12734,10779,1955,8,4.8
+2025-07-02,Northeast,"Fishtown, Philly",231,76,14271,10870,3401,9,4.5
+2025-07-03,West,"Pearl District, OR",232,78,11020,8836,2184,5,4.6
+2025-07-04,South,"French Quarter, LA",233,103,13273,11581,1692,8,4.9
+2025-07-05,West,"Beverly Hills, CA",234,97,11242,9642,1600,6,4.4
+2025-07-06,West,"Capitol Hill, WA",235,77,12341,11175,1166,6,4.1
+2025-07-07,South,"Midtown, Atlanta",236,100,7168,5113,2055,6,4.7
+2025-07-08,Midwest,"Uptown, Minneapolis",237,109,8541,7401,1140,7,4.5
+2025-07-09,Northeast,"Back Bay, Boston",238,103,11977,10469,1508,8,4.6
+2025-07-10,Northeast,"Downtown, Providence",239,88,13523,9568,3955,5,4.7
+2025-07-01,Northeast,"Fishtown, Philly",240,57,12355,10348,2007,6,4.0
+2025-07-02,Midwest,"Downtown, Detroit",241,77,11718,8470,3248,6,4.5
+2025-07-03,Northeast,"Back Bay, Boston",242,100,11583,7968,3615,9,4.9
+2025-07-04,Midwest,"Downtown, Detroit",243,90,13151,9272,3879,6,4.7
+2025-07-05,West,"Capitol Hill, WA",244,98,10899,7041,3858,6,4.6
+2025-07-06,West,"Capitol Hill, WA",245,77,13615,11398,2217,9,4.4
+2025-07-07,Northeast,"Manhattan, NY",246,115,11635,9001,2634,10,4.3
+2025-07-08,South,"The Heights, TX",247,83,7164,5672,1492,10,4.7
+2025-07-09,Midwest,"Loop, Chicago, IL",248,75,11029,8185,2844,6,4.6
+2025-07-10,West,"Hillcrest, San Diego",249,64,10619,7757,2862,9,4.4
+2025-07-01,West,"Capitol Hill, WA",250,90,13245,11379,1866,9,4.2
+2025-07-02,South,"Buckhead, GA",251,129,14089,11291,2798,6,4.4
+2025-07-03,Northeast,"Downtown, Providence",252,69,15073,11508,3565,7,4.9
+2025-07-04,West,"Downtown, LA, CA",253,50,11456,10162,1294,6,4.4
+2025-07-05,West,"Downtown, LA, CA",254,114,6551,5482,1069,7,4.3
+2025-07-06,Northeast,"Back Bay, Boston",255,120,11847,8895,2952,9,4.7
+2025-07-07,West,"Hillcrest, San Diego",256,109,12967,11897,1070,8,4.5
+2025-07-08,West,"SoMa, SF, CA",257,92,11700,8275,3425,10,4.3
+2025-07-09,Midwest,"Uptown, Minneapolis",258,110,6367,5137,1230,9,4.5
+2025-07-10,South,"Hyde Park, Tampa",259,51,13567,10619,2948,9,4.4
+2025-07-01,Midwest,"Downtown, Detroit",260,126,13478,11383,2095,8,4.3
+2025-07-02,South,"The Heights, TX",261,111,10556,7317,3239,10,4.4
+2025-07-03,Midwest,"Loop, Chicago, IL",262,54,11498,9648,1850,7,4.0
+2025-07-04,West,"Capitol Hill, WA",263,99,8466,6932,1534,9,4.5
+2025-07-05,South,"The Heights, TX",264,56,7720,5738,1982,6,4.7
+2025-07-06,West,"Beverly Hills, CA",265,91,12981,11213,1768,10,4.9
+2025-07-07,South,"The Heights, TX",266,81,8582,6942,1640,8,4.3
+2025-07-08,Northeast,"Manhattan, NY",267,94,8142,6009,2133,7,4.3
+2025-07-09,Northeast,"Chelsea, NY",268,94,15407,11805,3602,7,4.5
+2025-07-10,Northeast,"Chelsea, NY",269,57,12593,11540,1053,7,4.5
+2025-07-01,Northeast,"Downtown, Providence",270,69,7814,5489,2325,6,4.1
+2025-07-02,West,"Beverly Hills, CA",271,124,9782,6394,3388,6,4.6
+2025-07-03,Northeast,"Fishtown, Philly",272,116,11682,9265,2417,8,4.2
+2025-07-04,Midwest,"Uptown, Minneapolis",273,107,11207,9529,1678,9,4.8
+2025-07-05,West,"Hillcrest, San Diego",274,83,9835,5955,3880,8,4.9
+2025-07-06,West,"Beverly Hills, CA",275,85,10100,6378,3722,5,4.4
+2025-07-07,Midwest,"Loop, Chicago, IL",276,68,10584,7294,3290,10,4.0
+2025-07-08,South,"French Quarter, LA",277,113,13232,11231,2001,7,4.6
+2025-07-09,West,"Hillcrest, San Diego",278,99,10032,7835,2197,10,4.1
+2025-07-10,Northeast,"Chelsea, NY",279,77,6712,5657,1055,5,4.2
+2025-07-01,West,"Beverly Hills, CA",280,72,10343,7504,2839,8,4.0
+2025-07-02,West,"Beverly Hills, CA",281,76,7968,5553,2415,9,4.8
+2025-07-03,Midwest,"Short North, Columbus",282,130,10276,6382,3894,6,4.5
+2025-07-04,South,"French Quarter, LA",283,57,12770,10576,2194,10,4.2
+2025-07-05,West,"SoMa, SF, CA",284,92,12251,9361,2890,9,4.0
+2025-07-06,Midwest,"Loop, Chicago, IL",285,103,14228,10638,3590,9,4.5
+2025-07-07,West,"SoMa, SF, CA",286,60,8644,7173,1471,10,4.7
+2025-07-08,South,"French Quarter, LA",287,56,7616,5842,1774,10,4.2
+2025-07-09,South,"The Heights, TX",288,89,14557,11708,2849,6,4.2
+2025-07-10,Midwest,"Downtown, Detroit",289,72,7466,5142,2324,8,4.3
+2025-07-01,Midwest,"Downtown, Detroit",290,89,12426,10854,1572,10,4.1
+2025-07-02,South,"French Quarter, LA",291,95,11872,9496,2376,7,4.3
+2025-07-03,Northeast,"Chelsea, NY",292,100,10257,8340,1917,7,4.7
+2025-07-04,Midwest,"Uptown, Minneapolis",293,77,10364,7776,2588,6,4.1
+2025-07-05,West,"Pearl District, OR",294,124,10168,6873,3295,10,4.5
+2025-07-06,Northeast,"Back Bay, Boston",295,109,8271,6350,1921,5,4.4
+2025-07-07,South,"The Heights, TX",296,62,8277,5703,2574,10,4.2
+2025-07-08,West,"Capitol Hill, WA",297,117,11171,9142,2029,6,4.1
+2025-07-09,West,"Hillcrest, San Diego",298,114,11467,9549,1918,9,4.7
+2025-07-10,West,"Hillcrest, San Diego",299,91,13158,9358,3800,5,4.9
+2025-07-01,Midwest,"Uptown, Minneapolis",300,112,7925,5316,2609,8,4.5
+2025-07-02,West,"Pearl District, OR",301,61,10586,6742,3844,9,4.1
+2025-07-03,South,"Hyde Park, Tampa",302,77,11703,8919,2784,5,4.9
+2025-07-04,West,"Capitol Hill, WA",303,59,13094,11522,1572,7,4.6
+2025-07-05,West,"Downtown, LA, CA",304,117,7721,6695,1026,9,4.2
+2025-07-06,West,"Capitol Hill, WA",305,119,14873,11660,3213,9,4.4
+2025-07-07,Northeast,"Manhattan, NY",306,66,12530,8682,3848,5,4.0
+2025-07-08,Midwest,"Loop, Chicago, IL",307,74,12679,9182,3497,10,4.4
+2025-07-09,South,"Midtown, Atlanta",308,110,10254,8945,1309,6,4.3
+2025-07-10,Northeast,"Back Bay, Boston",309,65,12088,10196,1892,5,4.6
+2025-07-01,South,"French Quarter, LA",310,98,14132,11791,2341,7,4.5
+2025-07-02,Midwest,"Downtown, Detroit",311,116,14571,11518,3053,10,4.5
+2025-07-03,South,"Buckhead, GA",312,51,7911,6075,1836,10,4.1
+2025-07-04,Northeast,"Chelsea, NY",313,125,8072,6071,2001,10,4.9
+2025-07-05,South,"Midtown, Atlanta",314,125,9439,6805,2634,8,4.6
+2025-07-06,Northeast,"Chelsea, NY",315,104,11200,8898,2302,7,4.8
+2025-07-07,West,"Downtown, LA, CA",316,55,12073,10076,1997,9,4.3
+2025-07-08,Midwest,"Downtown, Detroit",317,119,10758,7166,3592,6,4.0
+2025-07-09,Midwest,"Downtown, Detroit",318,118,13719,10349,3370,6,4.1
+2025-07-10,West,"SoMa, SF, CA",319,70,11453,8921,2532,7,4.8
+2025-07-01,West,"Hillcrest, San Diego",320,123,8664,6730,1934,6,4.0
+2025-07-02,South,"French Quarter, LA",321,101,13764,11029,2735,9,4.4
+2025-07-03,South,"Buckhead, GA",322,73,7887,5704,2183,5,4.3
+2025-07-04,Northeast,"Downtown, Providence",323,57,11024,7602,3422,5,4.1
+2025-07-05,Northeast,"Downtown, Providence",324,114,9864,5954,3910,6,4.5
+2025-07-06,West,"Downtown, LA, CA",325,120,10402,8030,2372,8,4.3
+2025-07-07,West,"Beverly Hills, CA",326,91,8701,6332,2369,7,4.4
+2025-07-08,Northeast,"Manhattan, NY",327,126,10274,7695,2579,8,4.7
+2025-07-09,West,"Capitol Hill, WA",328,129,12830,9244,3586,10,4.7
+2025-07-10,Midwest,"Loop, Chicago, IL",329,104,12368,9566,2802,5,4.1
+2025-07-01,South,"Midtown, Atlanta",330,127,10393,6743,3650,8,4.6
+2025-07-02,Northeast,"Back Bay, Boston",331,68,8219,6014,2205,10,4.7
+2025-07-03,Northeast,"Fishtown, Philly",332,97,14529,11929,2600,6,4.3
+2025-07-04,South,"The Heights, TX",333,77,11068,9778,1290,10,4.6
+2025-07-05,West,"Beverly Hills, CA",334,53,9642,7671,1971,7,4.4
+2025-07-06,West,"Hillcrest, San Diego",335,83,9783,6064,3719,8,4.6
+2025-07-07,Northeast,"Chelsea, NY",336,98,10670,7435,3235,9,4.7
+2025-07-08,Midwest,"Short North, Columbus",337,106,7498,5072,2426,7,4.3
+2025-07-09,West,"Capitol Hill, WA",338,89,14557,10735,3822,8,4.7
+2025-07-10,Northeast,"Manhattan, NY",339,115,7833,5446,2387,9,4.4
+2025-07-01,Midwest,"Downtown, Detroit",340,123,7495,6402,1093,9,4.3
+2025-07-02,West,"Pearl District, OR",341,57,10722,7252,3470,7,4.6
+2025-07-03,West,"Beverly Hills, CA",342,125,10080,6121,3959,9,4.5
+2025-07-04,South,"Buckhead, GA",343,78,10347,7388,2959,6,4.8
+2025-07-05,Northeast,"Back Bay, Boston",344,50,12837,10432,2405,5,4.0
+2025-07-06,Midwest,"Downtown, Detroit",345,122,6509,5494,1015,7,4.8
+2025-07-07,South,"Hyde Park, Tampa",346,125,6891,5814,1077,6,4.5
+2025-07-08,South,"Buckhead, GA",347,52,6714,5151,1563,5,4.1
+2025-07-09,Northeast,"Back Bay, Boston",348,120,11511,9393,2118,6,4.9
+2025-07-10,West,"Capitol Hill, WA",349,72,9810,6148,3662,8,4.9
+2025-07-01,Northeast,"Chelsea, NY",350,96,8404,6835,1569,10,4.1
+2025-07-02,Northeast,"Back Bay, Boston",351,128,10507,8576,1931,5,4.8
+2025-07-03,South,"Midtown, Atlanta",352,121,11166,9374,1792,10,4.8
+2025-07-04,West,"Capitol Hill, WA",353,83,10850,7680,3170,8,4.4
+2025-07-05,West,"Beverly Hills, CA",354,64,12003,8877,3126,10,4.7
+2025-07-06,West,"Hillcrest, San Diego",355,93,8272,6573,1699,10,4.8
+2025-07-07,Northeast,"Fishtown, Philly",356,66,10339,8732,1607,7,4.1
+2025-07-08,West,"Beverly Hills, CA",357,89,8565,6555,2010,7,4.5
+2025-07-09,Northeast,"Chelsea, NY",358,56,9942,6883,3059,8,4.6
+2025-07-10,Midwest,"Uptown, Minneapolis",359,101,7316,6233,1083,5,4.3
+2025-07-01,South,"French Quarter, LA",360,95,6724,5076,1648,9,4.8
+2025-07-02,South,"The Heights, TX",361,65,6419,5261,1158,7,4.5
+2025-07-03,West,"Downtown, LA, CA",362,116,12089,9608,2481,9,4.3
+2025-07-04,Midwest,"Short North, Columbus",363,84,13155,10062,3093,10,4.4
+2025-07-05,Northeast,"Downtown, Providence",364,129,14198,10611,3587,8,4.9
+2025-07-06,West,"Pearl District, OR",365,80,10917,9802,1115,9,4.2
+2025-07-07,Northeast,"Manhattan, NY",366,87,14069,11632,2437,6,4.2
+2025-07-08,South,"French Quarter, LA",367,56,10596,6661,3935,6,4.9
+2025-07-09,South,"Midtown, Atlanta",368,126,10760,8698,2062,8,4.9
+2025-07-10,West,"Hillcrest, San Diego",369,79,9920,7618,2302,8,4.0
+2025-07-01,Northeast,"Fishtown, Philly",370,124,11097,10096,1001,10,4.7
+2025-07-02,West,"Capitol Hill, WA",371,100,13228,10839,2389,8,4.2
+2025-07-03,Midwest,"Short North, Columbus",372,57,14826,10916,3910,10,4.0
+2025-07-04,West,"Pearl District, OR",373,108,8757,7728,1029,6,4.4
+2025-07-05,South,"Buckhead, GA",374,89,7501,5017,2484,7,4.5
+2025-07-06,South,"The Heights, TX",375,104,15084,11950,3134,7,4.1
+2025-07-07,West,"Downtown, LA, CA",376,56,6305,5143,1162,8,4.8
+2025-07-08,South,"The Heights, TX",377,89,9512,5803,3709,9,4.5
+2025-07-09,Midwest,"Short North, Columbus",378,94,7728,5242,2486,6,4.1
+2025-07-10,West,"SoMa, SF, CA",379,102,11230,7971,3259,8,4.7
+2025-07-01,Midwest,"Loop, Chicago, IL",380,113,10027,8386,1641,8,4.1
+2025-07-02,South,"The Heights, TX",381,68,12807,11098,1709,10,4.3
+2025-07-03,South,"The Heights, TX",382,99,13137,9842,3295,5,4.3
+2025-07-04,Northeast,"Fishtown, Philly",383,110,9086,7944,1142,9,4.5
+2025-07-05,Midwest,"Short North, Columbus",384,75,11686,8492,3194,8,4.0
+2025-07-06,South,"Hyde Park, Tampa",385,116,13751,11126,2625,7,4.0
+2025-07-07,South,"Midtown, Atlanta",386,104,11372,9031,2341,9,4.7
+2025-07-08,Midwest,"Loop, Chicago, IL",387,54,7047,5136,1911,6,4.0
+2025-07-09,South,"The Heights, TX",388,82,13515,9896,3619,10,4.3
+2025-07-10,West,"Downtown, LA, CA",389,78,10611,8169,2442,6,4.1
+2025-07-01,Midwest,"Short North, Columbus",390,74,11477,9700,1777,9,4.7
+2025-07-02,Northeast,"Back Bay, Boston",391,50,12343,9384,2959,10,4.9
+2025-07-03,Midwest,"Short North, Columbus",392,65,9194,7325,1869,9,4.4
+2025-07-04,West,"Beverly Hills, CA",393,126,12969,9523,3446,8,4.5
+2025-07-05,West,"Downtown, LA, CA",394,113,14914,11828,3086,7,4.5
+2025-07-06,Northeast,"Back Bay, Boston",395,122,10243,7222,3021,7,4.2
+2025-07-07,Midwest,"Loop, Chicago, IL",396,73,12419,9745,2674,10,4.4
+2025-07-08,Midwest,"Uptown, Minneapolis",397,57,12688,9432,3256,6,4.4
+2025-07-09,South,"Hyde Park, Tampa",398,130,8708,5345,3363,7,4.2
+2025-07-10,South,"The Heights, TX",399,103,11945,10056,1889,5,4.4
+2025-07-01,South,"The Heights, TX",400,73,9224,6404,2820,8,4.9
+2025-07-02,Northeast,"Fishtown, Philly",401,50,12901,10329,2572,7,4.2
+2025-07-03,West,"SoMa, SF, CA",402,63,13293,11655,1638,6,4.2
+2025-07-04,South,"Buckhead, GA",403,118,10045,6422,3623,7,4.0
+2025-07-05,West,"Downtown, LA, CA",404,97,10421,7928,2493,5,4.1
+2025-07-06,West,"Beverly Hills, CA",405,51,9404,6513,2891,10,4.0
+2025-07-07,West,"Pearl District, OR",406,126,15083,11540,3543,5,4.9
+2025-07-08,South,"French Quarter, LA",407,66,7969,5426,2543,5,4.6
+2025-07-09,South,"Buckhead, GA",408,61,9966,6943,3023,7,4.5
+2025-07-10,South,"Hyde Park, Tampa",409,72,12731,11715,1016,6,4.8
+2025-07-01,Northeast,"Manhattan, NY",410,91,9869,7768,2101,5,4.5
+2025-07-02,Northeast,"Fishtown, Philly",411,107,10577,8738,1839,8,4.2
+2025-07-03,South,"Midtown, Atlanta",412,123,12343,11275,1068,6,4.1
+2025-07-04,Midwest,"Uptown, Minneapolis",413,95,9837,7993,1844,7,4.6
+2025-07-05,South,"The Heights, TX",414,92,11362,8254,3108,8,4.9
+2025-07-06,Northeast,"Chelsea, NY",415,68,12769,9162,3607,6,4.6
+2025-07-07,West,"Hillcrest, San Diego",416,53,8259,6542,1717,9,4.5
+2025-07-08,Northeast,"Downtown, Providence",417,115,12461,10632,1829,10,4.6
+2025-07-09,West,"SoMa, SF, CA",418,125,12040,8806,3234,6,4.2
+2025-07-10,Northeast,"Downtown, Providence",419,65,10598,8361,2237,10,4.0
+2025-07-01,Midwest,"Uptown, Minneapolis",420,124,11927,8680,3247,7,4.1
+2025-07-02,Northeast,"Downtown, Providence",421,115,9913,6922,2991,5,4.3
+2025-07-03,West,"Downtown, LA, CA",422,60,10165,7565,2600,9,4.8
+2025-07-04,South,"Hyde Park, Tampa",423,52,11667,7941,3726,8,4.1
+2025-07-05,West,"Beverly Hills, CA",424,64,10826,7033,3793,6,4.3
+2025-07-06,Northeast,"Back Bay, Boston",425,53,8851,7452,1399,10,4.3
+2025-07-07,South,"Hyde Park, Tampa",426,122,9494,6843,2651,5,4.4
+2025-07-08,South,"Buckhead, GA",427,53,10382,7596,2786,7,4.5
+2025-07-09,Midwest,"Short North, Columbus",428,121,8556,6542,2014,9,4.2
+2025-07-10,West,"Hillcrest, San Diego",429,125,12448,10861,1587,8,4.7
+2025-07-01,West,"Pearl District, OR",430,58,7658,5833,1825,8,4.5
+2025-07-02,Northeast,"Downtown, Providence",431,118,15052,11482,3570,7,4.7
+2025-07-03,South,"The Heights, TX",432,98,13665,9981,3684,9,4.6
+2025-07-04,Midwest,"Loop, Chicago, IL",433,56,8799,6386,2413,7,4.3
+2025-07-05,Northeast,"Back Bay, Boston",434,120,9023,7327,1696,9,4.5
+2025-07-06,West,"Capitol Hill, WA",435,84,7563,5831,1732,5,4.7
+2025-07-07,West,"Capitol Hill, WA",436,76,12501,9253,3248,8,4.8
+2025-07-08,South,"Buckhead, GA",437,63,13132,11733,1399,10,4.7
+2025-07-09,South,"French Quarter, LA",438,77,13826,11582,2244,5,4.6
+2025-07-10,West,"Beverly Hills, CA",439,109,7504,6342,1162,9,4.9
+2025-07-01,Midwest,"Loop, Chicago, IL",440,108,14048,11469,2579,5,4.0
+2025-07-02,West,"Hillcrest, San Diego",441,128,9883,7941,1942,5,4.5
+2025-07-03,South,"Midtown, Atlanta",442,74,9580,7811,1769,10,4.3
+2025-07-04,West,"Pearl District, OR",443,73,12365,8643,3722,7,4.4
+2025-07-05,Northeast,"Manhattan, NY",444,95,13085,10267,2818,5,4.3
+2025-07-06,Midwest,"Short North, Columbus",445,90,12174,8237,3937,8,4.3
+2025-07-07,Northeast,"Back Bay, Boston",446,55,7468,5950,1518,6,4.3
+2025-07-08,West,"Pearl District, OR",447,105,11189,8991,2198,10,4.2
+2025-07-09,Northeast,"Back Bay, Boston",448,121,14646,11402,3244,7,4.2
+2025-07-10,South,"Hyde Park, Tampa",449,54,10587,9577,1010,7,4.7
+2025-07-01,South,"Hyde Park, Tampa",450,108,11591,8782,2809,10,4.8
+2025-07-02,West,"Pearl District, OR",451,106,14947,11612,3335,5,4.3
+2025-07-03,South,"Buckhead, GA",452,57,13478,10976,2502,7,4.3
+2025-07-04,West,"Downtown, LA, CA",453,84,8147,7107,1040,9,4.1
+2025-07-05,Midwest,"Downtown, Detroit",454,95,14079,11512,2567,10,4.4
+2025-07-06,West,"Capitol Hill, WA",455,67,12532,8730,3802,6,4.5
+2025-07-07,South,"The Heights, TX",456,88,7729,5912,1817,9,4.3
+2025-07-08,Northeast,"Fishtown, Philly",457,62,13410,11686,1724,7,4.9
+2025-07-09,Northeast,"Back Bay, Boston",458,121,13906,10467,3439,10,4.6
+2025-07-10,West,"Capitol Hill, WA",459,87,12527,10629,1898,6,4.1
+2025-07-01,Northeast,"Back Bay, Boston",460,73,12069,8200,3869,5,4.7
+2025-07-02,South,"Buckhead, GA",461,117,13552,11438,2114,10,4.1
+2025-07-03,West,"Downtown, LA, CA",462,103,12358,9459,2899,7,4.6
+2025-07-04,Northeast,"Back Bay, Boston",463,111,7493,6433,1060,10,4.7
+2025-07-05,West,"Beverly Hills, CA",464,99,9133,6200,2933,7,4.3
+2025-07-06,West,"Downtown, LA, CA",465,130,11257,7265,3992,10,4.8
+2025-07-07,South,"Midtown, Atlanta",466,58,7393,6001,1392,9,4.8
+2025-07-08,Northeast,"Back Bay, Boston",467,79,10079,7235,2844,10,4.7
+2025-07-09,Northeast,"Back Bay, Boston",468,83,12662,9678,2984,9,4.8
+2025-07-10,Midwest,"Downtown, Detroit",469,129,9240,7374,1866,8,4.8
+2025-07-01,Midwest,"Short North, Columbus",470,52,11943,7957,3986,9,4.4
+2025-07-02,West,"Downtown, LA, CA",471,68,8129,5969,2160,6,4.4
+2025-07-03,West,"Pearl District, OR",472,72,13200,11065,2135,5,4.4
+2025-07-04,South,"The Heights, TX",473,111,9970,8769,1201,7,4.6
+2025-07-05,West,"Downtown, LA, CA",474,128,13283,11674,1609,8,4.6
+2025-07-06,Midwest,"Downtown, Detroit",475,84,11484,7864,3620,6,4.5
+2025-07-07,South,"Hyde Park, Tampa",476,57,13659,11141,2518,10,4.3
+2025-07-08,Northeast,"Manhattan, NY",477,58,8045,6794,1251,10,4.0
+2025-07-09,Midwest,"Uptown, Minneapolis",478,129,7918,6657,1261,10,4.1
+2025-07-10,South,"Buckhead, GA",479,62,9421,5474,3947,7,4.8
+2025-07-01,Midwest,"Uptown, Minneapolis",480,53,12738,11422,1316,7,4.3
+2025-07-02,South,"The Heights, TX",481,121,14047,11742,2305,7,4.9
+2025-07-03,West,"Downtown, LA, CA",482,69,10702,7103,3599,5,4.0
+2025-07-04,Midwest,"Loop, Chicago, IL",483,86,13934,10089,3845,9,4.7
+2025-07-05,Northeast,"Back Bay, Boston",484,76,13907,11664,2243,5,4.7
+2025-07-06,West,"Hillcrest, San Diego",485,97,10108,7885,2223,6,4.0
+2025-07-07,Midwest,"Uptown, Minneapolis",486,74,11675,9300,2375,8,4.5
+2025-07-08,Midwest,"Loop, Chicago, IL",487,70,13601,11339,2262,6,4.6
+2025-07-09,Northeast,"Downtown, Providence",488,112,9928,8180,1748,6,4.9
+2025-07-10,South,"Hyde Park, Tampa",489,95,10307,6994,3313,6,4.8
+2025-07-01,Midwest,"Loop, Chicago, IL",490,84,11985,8389,3596,8,4.6
+2025-07-02,West,"Pearl District, OR",491,115,13709,10340,3369,10,4.1
+2025-07-03,Northeast,"Back Bay, Boston",492,82,8395,5736,2659,7,4.7
+2025-07-04,South,"Buckhead, GA",493,62,9704,6020,3684,5,4.8
+2025-07-05,South,"Buckhead, GA",494,83,7027,5828,1199,7,4.5
+2025-07-06,Northeast,"Fishtown, Philly",495,119,10033,6871,3162,7,4.6
+2025-07-07,Northeast,"Back Bay, Boston",496,116,9734,6721,3013,6,4.7
+2025-07-08,Midwest,"Uptown, Minneapolis",497,99,11784,9634,2150,6,4.8
+2025-07-09,West,"Beverly Hills, CA",498,71,10752,6978,3774,8,4.7
+2025-07-10,Northeast,"Fishtown, Philly",499,65,13646,10302,3344,5,4.0
+2025-07-01,West,"SoMa, SF, CA",500,123,12182,9686,2496,10,4.7
+2025-07-02,South,"Buckhead, GA",501,66,12533,11514,1019,8,4.8
+2025-07-03,West,"SoMa, SF, CA",502,118,12647,9252,3395,6,4.5
+2025-07-04,West,"SoMa, SF, CA",503,103,12628,9333,3295,7,4.4
+2025-07-05,Northeast,"Manhattan, NY",504,64,9024,5845,3179,8,4.8
+2025-07-06,South,"Hyde Park, Tampa",505,80,12337,9971,2366,9,4.6
+2025-07-07,Midwest,"Uptown, Minneapolis",506,65,10058,7482,2576,10,4.6
+2025-07-08,South,"Midtown, Atlanta",507,76,7520,5444,2076,10,4.6
+2025-07-09,South,"Buckhead, GA",508,76,12322,10601,1721,7,4.6
+2025-07-10,Midwest,"Loop, Chicago, IL",509,69,13097,9347,3750,7,4.7
+2025-07-01,Northeast,"Chelsea, NY",510,61,13477,11508,1969,9,4.7
+2025-07-02,Midwest,"Short North, Columbus",511,60,8628,5571,3057,7,4.7
+2025-07-03,Midwest,"Loop, Chicago, IL",512,70,10428,8785,1643,7,4.4
+2025-07-04,West,"Capitol Hill, WA",513,61,9661,7486,2175,6,4.9
+2025-07-05,West,"Capitol Hill, WA",514,121,10125,7013,3112,7,4.2
+2025-07-06,South,"Midtown, Atlanta",515,62,12348,11298,1050,5,4.7
+2025-07-07,South,"Buckhead, GA",516,113,8478,6105,2373,9,4.6
+2025-07-08,West,"SoMa, SF, CA",517,121,8359,6090,2269,8,4.7
+2025-07-09,West,"SoMa, SF, CA",518,94,11994,10977,1017,6,4.6
+2025-07-10,West,"Hillcrest, San Diego",519,62,11866,10356,1510,10,4.7
+2025-07-01,Northeast,"Chelsea, NY",520,110,9077,6724,2353,8,4.5
+2025-07-02,South,"Midtown, Atlanta",521,124,7862,6345,1517,8,4.4
+2025-07-03,West,"SoMa, SF, CA",522,52,14520,10860,3660,6,4.3
+2025-07-04,Northeast,"Fishtown, Philly",523,128,11783,9570,2213,8,4.3
+2025-07-05,South,"The Heights, TX",524,91,13334,10733,2601,6,4.8
+2025-07-06,South,"The Heights, TX",525,111,8413,7288,1125,10,4.6
+2025-07-07,Midwest,"Short North, Columbus",526,110,8411,5830,2581,10,4.4
+2025-07-08,West,"SoMa, SF, CA",527,90,8289,6215,2074,5,4.6
+2025-07-09,South,"Midtown, Atlanta",528,85,13877,11018,2859,6,4.7
+2025-07-10,Midwest,"Downtown, Detroit",529,111,11195,9854,1341,9,4.4
+2025-07-01,Midwest,"Downtown, Detroit",530,115,11069,7440,3629,7,4.6
+2025-07-02,West,"Beverly Hills, CA",531,64,13414,11986,1428,6,4.3
+2025-07-03,West,"Downtown, LA, CA",532,88,13582,11321,2261,9,4.4
+2025-07-04,South,"The Heights, TX",533,86,12101,10493,1608,7,4.3
+2025-07-05,West,"Capitol Hill, WA",534,60,10253,8150,2103,8,4.3
+2025-07-06,Northeast,"Chelsea, NY",535,69,14224,11398,2826,10,4.5
+2025-07-07,South,"Midtown, Atlanta",536,107,14176,10655,3521,7,4.6
+2025-07-08,West,"Beverly Hills, CA",537,111,14244,11304,2940,9,4.4
+2025-07-09,West,"Beverly Hills, CA",538,130,8153,6397,1756,7,4.7
+2025-07-10,South,"Hyde Park, Tampa",539,81,8611,5396,3215,6,4.5
+2025-07-01,Midwest,"Loop, Chicago, IL",540,116,13369,9971,3398,8,4.2
+2025-07-02,South,"The Heights, TX",541,124,11639,10436,1203,8,4.4
+2025-07-03,Midwest,"Downtown, Detroit",542,67,14336,10868,3468,7,4.8
+2025-07-04,South,"French Quarter, LA",543,67,14008,11529,2479,5,4.1
+2025-07-05,Northeast,"Back Bay, Boston",544,76,9493,7605,1888,7,4.2
+2025-07-06,Northeast,"Back Bay, Boston",545,99,11378,10149,1229,7,4.3
+2025-07-07,West,"Capitol Hill, WA",546,75,13335,11885,1450,9,4.4
+2025-07-08,Northeast,"Downtown, Providence",547,86,13914,10142,3772,10,4.1
+2025-07-09,South,"Midtown, Atlanta",548,53,12087,8539,3548,10,4.6
+2025-07-10,Midwest,"Uptown, Minneapolis",549,55,10074,8957,1117,9,4.8
+2025-07-01,Northeast,"Back Bay, Boston",550,69,9545,6854,2691,9,4.1
+2025-07-02,Northeast,"Chelsea, NY",551,84,7229,6201,1028,5,4.1
+2025-07-03,Northeast,"Back Bay, Boston",552,112,14063,10643,3420,8,4.7
+2025-07-04,Midwest,"Loop, Chicago, IL",553,64,13894,11882,2012,6,4.3
+2025-07-05,West,"SoMa, SF, CA",554,118,11518,8236,3282,10,4.9
+2025-07-06,West,"Hillcrest, San Diego",555,85,6967,5392,1575,8,4.5
+2025-07-07,Midwest,"Short North, Columbus",556,97,10719,8656,2063,10,4.1
+2025-07-08,Midwest,"Loop, Chicago, IL",557,94,14010,11072,2938,7,4.5
+2025-07-09,South,"French Quarter, LA",558,91,10751,8779,1972,5,4.1
+2025-07-10,West,"SoMa, SF, CA",559,50,11350,9463,1887,10,4.8
+2025-07-01,West,"Hillcrest, San Diego",560,77,14025,10246,3779,6,4.7
+2025-07-02,South,"French Quarter, LA",561,72,13014,11170,1844,7,4.2
+2025-07-03,Northeast,"Manhattan, NY",562,60,11353,10338,1015,6,4.1
+2025-07-04,Midwest,"Uptown, Minneapolis",563,120,9391,5615,3776,7,4.5
+2025-07-05,Midwest,"Downtown, Detroit",564,120,7564,5654,1910,8,4.9
+2025-07-06,Midwest,"Short North, Columbus",565,121,11165,7291,3874,7,4.1
+2025-07-07,West,"Beverly Hills, CA",566,94,13791,11294,2497,7,4.5
+2025-07-08,West,"Hillcrest, San Diego",567,59,11420,9777,1643,6,4.5
+2025-07-09,Midwest,"Loop, Chicago, IL",568,65,10811,7458,3353,10,4.5
+2025-07-10,South,"Midtown, Atlanta",569,96,10851,8721,2130,7,4.2
+2025-07-01,Northeast,"Fishtown, Philly",570,102,7444,6059,1385,10,4.5
+2025-07-02,West,"Downtown, LA, CA",571,51,14632,10639,3993,5,4.5
+2025-07-03,West,"Downtown, LA, CA",572,69,11662,9816,1846,6,4.8
+2025-07-04,West,"Pearl District, OR",573,118,10826,9414,1412,10,4.1
+2025-07-05,Midwest,"Short North, Columbus",574,59,7542,5468,2074,9,4.6
+2025-07-06,Midwest,"Short North, Columbus",575,62,14596,11612,2984,8,4.0
+2025-07-07,South,"Buckhead, GA",576,64,8349,7302,1047,5,4.1
+2025-07-08,West,"Capitol Hill, WA",577,60,11042,8033,3009,9,4.7
+2025-07-09,Northeast,"Downtown, Providence",578,64,7550,6533,1017,5,4.5
+2025-07-10,Midwest,"Downtown, Detroit",579,108,10317,8946,1371,5,4.2
+2025-07-01,Northeast,"Chelsea, NY",580,102,8568,7498,1070,10,4.1
+2025-07-02,West,"Capitol Hill, WA",581,116,11935,10400,1535,8,4.1
+2025-07-03,West,"SoMa, SF, CA",582,58,12189,8393,3796,10,4.0
+2025-07-04,West,"Hillcrest, San Diego",583,90,9070,5749,3321,5,4.3
+2025-07-05,South,"Hyde Park, Tampa",584,52,9793,7930,1863,6,4.9
+2025-07-06,Northeast,"Downtown, Providence",585,112,13945,11852,2093,6,4.6
+2025-07-07,West,"Pearl District, OR",586,127,14624,11166,3458,9,4.0
+2025-07-08,Northeast,"Chelsea, NY",587,65,14342,11492,2850,9,4.9
+2025-07-09,West,"Beverly Hills, CA",588,108,11194,8221,2973,9,4.6
+2025-07-10,Midwest,"Short North, Columbus",589,117,7755,5577,2178,5,4.5
+2025-07-01,Northeast,"Back Bay, Boston",590,52,8926,7572,1354,7,4.7
+2025-07-02,Northeast,"Fishtown, Philly",591,98,8354,6768,1586,10,4.8
+2025-07-03,Northeast,"Fishtown, Philly",592,83,13631,11207,2424,6,4.2
+2025-07-04,West,"SoMa, SF, CA",593,88,7237,5140,2097,6,4.8
+2025-07-05,West,"Hillcrest, San Diego",594,91,13825,11741,2084,5,4.5
+2025-07-06,West,"Pearl District, OR",595,74,14781,11074,3707,9,4.4
+2025-07-07,West,"Hillcrest, San Diego",596,115,13559,11880,1679,6,4.5
+2025-07-08,Midwest,"Downtown, Detroit",597,62,14702,11439,3263,9,4.2
+2025-07-09,South,"Midtown, Atlanta",598,113,10559,7748,2811,10,4.6
+2025-07-10,Midwest,"Uptown, Minneapolis",599,77,9729,6902,2827,8,4.5
+2025-07-01,Midwest,"Short North, Columbus",600,70,13818,10745,3073,8,4.3
+2025-07-02,Northeast,"Chelsea, NY",601,60,14435,10771,3664,7,4.8
+2025-07-03,Northeast,"Back Bay, Boston",602,120,14174,11171,3003,9,4.8
+2025-07-04,Midwest,"Uptown, Minneapolis",603,59,10469,8889,1580,5,4.2
+2025-07-05,West,"SoMa, SF, CA",604,128,14851,11260,3591,7,4.0
+2025-07-06,Northeast,"Chelsea, NY",605,82,12135,8736,3399,6,4.0
+2025-07-07,Northeast,"Manhattan, NY",606,130,9650,6270,3380,8,4.1
+2025-07-08,West,"Capitol Hill, WA",607,58,7225,5127,2098,10,4.8
+2025-07-09,Northeast,"Fishtown, Philly",608,123,8558,7514,1044,8,4.9
+2025-07-10,Midwest,"Downtown, Detroit",609,109,12241,8756,3485,5,4.0
+2025-07-01,West,"Beverly Hills, CA",610,128,9164,6283,2881,7,4.7
+2025-07-02,Midwest,"Short North, Columbus",611,78,11419,9447,1972,5,4.6
+2025-07-03,West,"Pearl District, OR",612,58,8997,7204,1793,9,4.7
+2025-07-04,South,"Midtown, Atlanta",613,78,14099,10333,3766,5,4.6
+2025-07-05,South,"Midtown, Atlanta",614,50,12704,10478,2226,7,4.2
+2025-07-06,West,"SoMa, SF, CA",615,99,13299,11016,2283,9,4.3
+2025-07-07,South,"Midtown, Atlanta",616,79,10264,8428,1836,5,4.5
+2025-07-08,Midwest,"Loop, Chicago, IL",617,86,10122,7146,2976,5,4.8
+2025-07-09,West,"Pearl District, OR",618,69,8248,5425,2823,5,4.6
+2025-07-10,West,"Capitol Hill, WA",619,102,7804,6750,1054,5,4.6
+2025-07-01,South,"The Heights, TX",620,78,12190,11134,1056,5,4.1
+2025-07-02,Midwest,"Uptown, Minneapolis",621,94,12895,9429,3466,7,4.7
+2025-07-03,West,"SoMa, SF, CA",622,86,8611,7473,1138,9,4.8
+2025-07-04,South,"The Heights, TX",623,61,8611,7571,1040,7,4.9
+2025-07-05,South,"French Quarter, LA",624,93,13869,10586,3283,8,4.7
+2025-07-06,West,"Pearl District, OR",625,79,12028,9354,2674,8,4.8
+2025-07-07,Northeast,"Fishtown, Philly",626,91,6986,5311,1675,8,4.3
+2025-07-08,Midwest,"Short North, Columbus",627,119,11872,8119,3753,7,4.5
+2025-07-09,West,"Pearl District, OR",628,65,15395,11422,3973,6,4.7
+2025-07-10,West,"Capitol Hill, WA",629,73,8888,6608,2280,10,4.2
+2025-07-01,Midwest,"Downtown, Detroit",630,86,9958,7962,1996,6,4.5
+2025-07-02,Northeast,"Chelsea, NY",631,79,7841,6180,1661,9,4.4
+2025-07-03,Northeast,"Manhattan, NY",632,75,12890,11234,1656,8,4.4
+2025-07-04,South,"French Quarter, LA",633,120,9730,6238,3492,8,4.5
+2025-07-05,South,"The Heights, TX",634,82,13525,11985,1540,7,4.6
+2025-07-06,West,"SoMa, SF, CA",635,84,8194,5407,2787,7,4.5
+2025-07-07,South,"Buckhead, GA",636,76,10017,8623,1394,5,4.1
+2025-07-08,Northeast,"Downtown, Providence",637,100,9077,5748,3329,5,4.7
+2025-07-09,West,"Hillcrest, San Diego",638,86,7791,6785,1006,8,4.2
+2025-07-10,West,"Downtown, LA, CA",639,99,9985,7574,2411,6,4.2
+2025-07-01,South,"Midtown, Atlanta",640,57,14901,10926,3975,8,4.7
+2025-07-02,Northeast,"Manhattan, NY",641,52,9201,6959,2242,5,4.2
+2025-07-03,West,"SoMa, SF, CA",642,101,13019,10154,2865,8,4.0
+2025-07-04,South,"French Quarter, LA",643,91,10599,6924,3675,5,4.7
+2025-07-05,Midwest,"Downtown, Detroit",644,93,11227,7666,3561,9,4.7
+2025-07-06,Northeast,"Downtown, Providence",645,68,12319,9952,2367,6,4.5
+2025-07-07,Northeast,"Fishtown, Philly",646,84,10910,9317,1593,5,4.8
+2025-07-08,Midwest,"Short North, Columbus",647,106,11390,7608,3782,10,4.3
+2025-07-09,Midwest,"Loop, Chicago, IL",648,116,14551,11564,2987,10,4.2
+2025-07-10,West,"Pearl District, OR",649,68,11043,9161,1882,6,4.2
+2025-07-01,Midwest,"Uptown, Minneapolis",650,125,12562,11221,1341,7,4.5
+2025-07-02,West,"SoMa, SF, CA",651,102,9823,8414,1409,10,4.6
+2025-07-03,West,"Downtown, LA, CA",652,129,10464,8837,1627,10,4.7
+2025-07-04,Northeast,"Back Bay, Boston",653,128,12923,11755,1168,10,4.3
+2025-07-05,Midwest,"Downtown, Detroit",654,77,11975,10483,1492,9,4.4
+2025-07-06,Northeast,"Downtown, Providence",655,104,14870,11918,2952,10,4.1
+2025-07-07,Midwest,"Uptown, Minneapolis",656,117,9211,6884,2327,7,4.7
+2025-07-08,South,"Buckhead, GA",657,64,11990,8632,3358,8,4.0
+2025-07-09,South,"Hyde Park, Tampa",658,70,8790,5392,3398,9,4.5
+2025-07-10,Midwest,"Downtown, Detroit",659,106,10485,9406,1079,5,4.4
+2025-07-01,West,"Downtown, LA, CA",660,91,13668,10606,3062,9,4.1
+2025-07-02,Midwest,"Downtown, Detroit",661,76,10603,6854,3749,6,4.7
+2025-07-03,Northeast,"Fishtown, Philly",662,122,9240,6500,2740,10,4.9
+2025-07-04,West,"Capitol Hill, WA",663,82,8785,7669,1116,9,4.6
+2025-07-05,Northeast,"Manhattan, NY",664,52,10295,6425,3870,10,4.9
+2025-07-06,West,"Downtown, LA, CA",665,126,11927,8187,3740,8,4.8
+2025-07-07,West,"Hillcrest, San Diego",666,107,12387,9577,2810,7,4.8
+2025-07-08,Midwest,"Loop, Chicago, IL",667,128,11406,8349,3057,6,4.6
+2025-07-09,West,"Pearl District, OR",668,94,12676,9585,3091,7,4.4
+2025-07-10,South,"The Heights, TX",669,109,9028,6024,3004,7,4.6
+2025-07-01,West,"Beverly Hills, CA",670,81,13515,9989,3526,6,4.2
+2025-07-02,Midwest,"Uptown, Minneapolis",671,63,9694,7186,2508,7,4.4
+2025-07-03,Midwest,"Downtown, Detroit",672,60,9522,7565,1957,5,4.3
+2025-07-04,Northeast,"Manhattan, NY",673,90,13950,11589,2361,5,4.4
+2025-07-05,West,"Capitol Hill, WA",674,106,13362,11521,1841,10,4.0
+2025-07-06,Northeast,"Downtown, Providence",675,70,8333,5299,3034,5,4.0
+2025-07-07,Midwest,"Downtown, Detroit",676,82,8688,5043,3645,6,4.1
+2025-07-08,South,"Midtown, Atlanta",677,58,11547,10383,1164,10,4.4
+2025-07-09,South,"French Quarter, LA",678,76,10438,9088,1350,9,4.2
+2025-07-10,West,"Pearl District, OR",679,73,11101,9796,1305,5,4.4
+2025-07-01,South,"Hyde Park, Tampa",680,52,7626,5105,2521,7,4.6
+2025-07-02,South,"Midtown, Atlanta",681,55,10679,7065,3614,7,4.2
+2025-07-03,Northeast,"Back Bay, Boston",682,100,9163,7629,1534,8,4.2
+2025-07-04,South,"Midtown, Atlanta",683,86,9198,6135,3063,8,4.5
+2025-07-05,South,"Hyde Park, Tampa",684,52,8403,5192,3211,9,4.0
+2025-07-06,Northeast,"Downtown, Providence",685,82,6767,5638,1129,5,4.0
+2025-07-07,West,"Downtown, LA, CA",686,109,11477,9250,2227,6,4.7
+2025-07-08,West,"SoMa, SF, CA",687,91,11080,8258,2822,5,4.2
+2025-07-09,West,"Pearl District, OR",688,120,12170,8328,3842,9,4.0
+2025-07-10,South,"Hyde Park, Tampa",689,83,15270,11482,3788,7,4.6
+2025-07-01,West,"Beverly Hills, CA",690,107,7204,5756,1448,6,4.4
+2025-07-02,South,"Hyde Park, Tampa",691,100,11441,8157,3284,6,4.9
+2025-07-03,West,"Beverly Hills, CA",692,64,9641,7007,2634,9,4.5
+2025-07-04,Midwest,"Loop, Chicago, IL",693,53,8304,6423,1881,7,4.1
+2025-07-05,Northeast,"Chelsea, NY",694,127,11404,8841,2563,6,4.3
+2025-07-06,Northeast,"Chelsea, NY",695,64,6538,5345,1193,10,4.3
+2025-07-07,Midwest,"Loop, Chicago, IL",696,68,13076,10033,3043,10,4.2
+2025-07-08,Midwest,"Short North, Columbus",697,53,11859,8273,3586,5,4.0
+2025-07-09,West,"Pearl District, OR",698,75,9237,6412,2825,7,4.5
+2025-07-10,South,"Hyde Park, Tampa",699,86,15157,11486,3671,6,4.3
+2025-07-01,Midwest,"Loop, Chicago, IL",700,124,11066,8534,2532,7,4.2
+2025-07-02,South,"Midtown, Atlanta",701,79,11103,9959,1144,5,4.6
+2025-07-03,Northeast,"Fishtown, Philly",702,90,9285,7863,1422,8,4.7
+2025-07-04,Midwest,"Uptown, Minneapolis",703,85,9608,6002,3606,9,4.2
+2025-07-05,West,"Capitol Hill, WA",704,58,13045,10401,2644,10,4.1
+2025-07-06,Midwest,"Loop, Chicago, IL",705,105,8555,6422,2133,7,4.7
+2025-07-07,West,"Downtown, LA, CA",706,92,11473,10304,1169,7,4.5
+2025-07-08,South,"Buckhead, GA",707,103,8119,6741,1378,10,4.3
+2025-07-09,Midwest,"Short North, Columbus",708,71,10781,8209,2572,8,4.0
+2025-07-10,Midwest,"Downtown, Detroit",709,79,10977,7934,3043,10,4.4
+2025-07-01,Midwest,"Downtown, Detroit",710,50,14659,11672,2987,8,4.5
+2025-07-02,South,"Hyde Park, Tampa",711,65,13555,10553,3002,7,4.1
+2025-07-03,South,"Buckhead, GA",712,53,13384,11410,1974,8,4.5
+2025-07-04,Midwest,"Downtown, Detroit",713,80,10772,7623,3149,5,4.2
+2025-07-05,South,"Hyde Park, Tampa",714,76,9579,6356,3223,7,4.9
+2025-07-06,Northeast,"Fishtown, Philly",715,59,9468,7596,1872,8,4.5
+2025-07-07,South,"Buckhead, GA",716,54,11556,8404,3152,9,4.8
+2025-07-08,West,"SoMa, SF, CA",717,69,12681,10579,2102,10,4.5
+2025-07-09,Northeast,"Downtown, Providence",718,85,12755,11708,1047,9,4.3
+2025-07-10,West,"Beverly Hills, CA",719,50,13527,9897,3630,9,4.3
+2025-07-01,West,"Beverly Hills, CA",720,112,10307,6883,3424,6,4.4
+2025-07-02,Northeast,"Manhattan, NY",721,64,12878,9727,3151,9,4.4
+2025-07-03,West,"Downtown, LA, CA",722,84,10814,8635,2179,7,4.4
+2025-07-04,West,"Pearl District, OR",723,61,8913,6039,2874,6,4.5
+2025-07-05,Midwest,"Short North, Columbus",724,101,14425,10555,3870,7,4.1
+2025-07-06,Midwest,"Uptown, Minneapolis",725,122,6127,5097,1030,8,4.6
+2025-07-07,West,"Downtown, LA, CA",726,75,13666,10909,2757,9,4.2
+2025-07-08,South,"Midtown, Atlanta",727,71,10270,6310,3960,8,4.1
+2025-07-09,Midwest,"Short North, Columbus",728,112,7620,5052,2568,7,4.8
+2025-07-10,South,"French Quarter, LA",729,55,8798,5482,3316,8,4.1
+2025-07-01,West,"Hillcrest, San Diego",730,97,9654,8417,1237,9,4.4
+2025-07-02,South,"The Heights, TX",731,115,8047,6134,1913,9,4.6
+2025-07-03,Northeast,"Downtown, Providence",732,98,10170,8176,1994,7,4.0
+2025-07-04,Northeast,"Fishtown, Philly",733,107,10527,6664,3863,7,4.7
+2025-07-05,West,"Downtown, LA, CA",734,54,12315,10951,1364,7,4.2
+2025-07-06,West,"Pearl District, OR",735,100,12365,10341,2024,8,4.3
+2025-07-07,South,"The Heights, TX",736,75,7257,5787,1470,6,4.3
+2025-07-08,South,"Midtown, Atlanta",737,97,11448,8177,3271,10,4.6
+2025-07-09,West,"Capitol Hill, WA",738,106,11221,8871,2350,9,4.0
+2025-07-10,South,"The Heights, TX",739,130,12258,9245,3013,7,4.5
+2025-07-01,West,"Downtown, LA, CA",740,67,13138,10596,2542,7,4.5
+2025-07-02,South,"French Quarter, LA",741,69,9382,7505,1877,5,4.5
+2025-07-03,Midwest,"Uptown, Minneapolis",742,75,7748,5880,1868,9,4.7
+2025-07-04,Northeast,"Back Bay, Boston",743,79,9258,6490,2768,8,4.8
+2025-07-05,Northeast,"Downtown, Providence",744,94,8778,5565,3213,7,4.0
+2025-07-06,Northeast,"Fishtown, Philly",745,122,10775,9287,1488,8,4.5
+2025-07-07,Midwest,"Downtown, Detroit",746,111,12809,11176,1633,10,4.0
+2025-07-08,Northeast,"Fishtown, Philly",747,115,14062,10265,3797,8,4.0
+2025-07-09,Midwest,"Loop, Chicago, IL",748,61,11749,9646,2103,8,4.3
+2025-07-10,South,"Buckhead, GA",749,117,10333,7547,2786,8,4.8
+2025-07-01,Northeast,"Manhattan, NY",750,103,8737,7701,1036,6,4.5
+2025-07-02,West,"Pearl District, OR",751,86,12956,11810,1146,6,4.7
+2025-07-03,South,"French Quarter, LA",752,128,7696,6383,1313,8,4.5
+2025-07-04,South,"Hyde Park, Tampa",753,87,7737,6095,1642,6,4.3
+2025-07-05,West,"Downtown, LA, CA",754,130,13016,11742,1274,10,4.5
+2025-07-06,South,"French Quarter, LA",755,56,8275,7196,1079,10,4.7
+2025-07-07,South,"French Quarter, LA",756,127,7542,5148,2394,5,4.2
+2025-07-08,Northeast,"Downtown, Providence",757,111,11062,8360,2702,6,4.6
+2025-07-09,South,"Midtown, Atlanta",758,128,13087,10206,2881,7,4.6
+2025-07-10,South,"Midtown, Atlanta",759,87,12680,10743,1937,7,4.3
+2025-07-01,Northeast,"Back Bay, Boston",760,116,11194,8147,3047,7,4.6
+2025-07-02,Northeast,"Downtown, Providence",761,117,9933,6593,3340,8,4.5
+2025-07-03,Midwest,"Loop, Chicago, IL",762,62,14402,11220,3182,10,4.1
+2025-07-04,West,"Hillcrest, San Diego",763,114,13903,11637,2266,10,4.6
+2025-07-05,Midwest,"Short North, Columbus",764,109,13428,11623,1805,10,4.2
+2025-07-06,West,"SoMa, SF, CA",765,85,12585,11028,1557,10,4.6
+2025-07-07,Northeast,"Downtown, Providence",766,108,7856,5337,2519,8,4.4
+2025-07-08,South,"Hyde Park, Tampa",767,93,9299,7832,1467,7,4.3
+2025-07-09,Midwest,"Uptown, Minneapolis",768,72,7509,6109,1400,10,4.2
+2025-07-10,Northeast,"Chelsea, NY",769,91,12773,10154,2619,9,4.4
+2025-07-01,Northeast,"Fishtown, Philly",770,89,11690,8234,3456,10,4.8
+2025-07-02,Northeast,"Manhattan, NY",771,67,12787,11233,1554,6,4.2
+2025-07-03,Northeast,"Back Bay, Boston",772,118,13495,10723,2772,10,4.6
+2025-07-04,South,"Midtown, Atlanta",773,111,10188,7089,3099,8,4.5
+2025-07-05,South,"The Heights, TX",774,62,9634,6429,3205,7,4.4
+2025-07-06,South,"Hyde Park, Tampa",775,89,6994,5465,1529,5,4.8
+2025-07-07,South,"Midtown, Atlanta",776,75,9191,5939,3252,6,4.8
+2025-07-08,South,"French Quarter, LA",777,112,11362,9029,2333,10,4.4
+2025-07-09,West,"SoMa, SF, CA",778,126,12436,11412,1024,6,4.2
+2025-07-10,South,"Hyde Park, Tampa",779,112,10829,8815,2014,10,4.0
+2025-07-01,Northeast,"Manhattan, NY",780,95,9722,8423,1299,7,4.6
+2025-07-02,West,"Downtown, LA, CA",781,112,12304,9620,2684,5,4.7
+2025-07-03,West,"Downtown, LA, CA",782,100,9911,7923,1988,5,4.9
+2025-07-04,West,"Downtown, LA, CA",783,129,10997,9730,1267,10,4.7
+2025-07-05,Midwest,"Loop, Chicago, IL",784,67,7557,6020,1537,5,4.9
+2025-07-06,Midwest,"Loop, Chicago, IL",785,53,8455,7173,1282,8,4.7
+2025-07-07,Northeast,"Manhattan, NY",786,105,12377,10745,1632,9,4.4
+2025-07-08,West,"Beverly Hills, CA",787,81,6726,5171,1555,6,4.5
+2025-07-09,South,"French Quarter, LA",788,114,9998,7804,2194,10,4.7
+2025-07-10,Midwest,"Loop, Chicago, IL",789,93,12030,9408,2622,10,4.3
+2025-07-01,Midwest,"Loop, Chicago, IL",790,124,12722,9732,2990,8,4.8
+2025-07-02,West,"Pearl District, OR",791,114,15682,11688,3994,6,4.8
+2025-07-03,Northeast,"Fishtown, Philly",792,54,13816,10608,3208,10,4.0
+2025-07-04,South,"French Quarter, LA",793,95,11972,8370,3602,9,4.2
+2025-07-05,South,"French Quarter, LA",794,110,14329,11946,2383,7,4.4
+2025-07-06,Midwest,"Downtown, Detroit",795,85,7209,5781,1428,5,4.9
+2025-07-07,South,"Buckhead, GA",796,105,13708,10075,3633,7,4.2
+2025-07-08,South,"Hyde Park, Tampa",797,104,10188,8007,2181,10,4.5
+2025-07-09,Northeast,"Manhattan, NY",798,84,7170,5296,1874,5,4.5
+2025-07-10,Midwest,"Downtown, Detroit",799,117,8855,5460,3395,9,4.9
+2025-07-01,South,"Buckhead, GA",800,60,12982,9911,3071,5,4.6
+2025-07-02,Midwest,"Short North, Columbus",801,99,8940,7745,1195,6,4.2
+2025-07-03,Midwest,"Short North, Columbus",802,116,9413,6035,3378,5,4.6
+2025-07-04,West,"Pearl District, OR",803,75,11211,10115,1096,9,4.2
+2025-07-05,South,"The Heights, TX",804,88,13342,11455,1887,7,4.2
+2025-07-06,Midwest,"Downtown, Detroit",805,58,8928,7858,1070,5,4.7
+2025-07-07,West,"Hillcrest, San Diego",806,121,12325,10423,1902,9,4.0
+2025-07-08,Northeast,"Back Bay, Boston",807,72,11754,9341,2413,6,4.5
+2025-07-09,Northeast,"Downtown, Providence",808,119,13043,9950,3093,6,4.7
+2025-07-10,Northeast,"Chelsea, NY",809,97,9792,7744,2048,6,4.1
+2025-07-01,West,"Beverly Hills, CA",810,126,10431,6591,3840,9,4.3
+2025-07-02,South,"The Heights, TX",811,69,10772,6904,3868,7,4.4
+2025-07-03,West,"Capitol Hill, WA",812,50,12271,10556,1715,6,4.7
+2025-07-04,Northeast,"Fishtown, Philly",813,70,9619,7688,1931,8,4.4
+2025-07-05,West,"Hillcrest, San Diego",814,68,9991,6929,3062,8,4.7
+2025-07-06,Midwest,"Uptown, Minneapolis",815,120,9522,6041,3481,8,4.0
+2025-07-07,Midwest,"Short North, Columbus",816,52,7623,6027,1596,5,4.4
+2025-07-08,West,"SoMa, SF, CA",817,79,10783,7460,3323,6,4.9
+2025-07-09,South,"French Quarter, LA",818,111,13455,11000,2455,9,4.7
+2025-07-10,South,"Hyde Park, Tampa",819,120,10815,8152,2663,7,4.3
+2025-07-01,Northeast,"Downtown, Providence",820,80,6154,5095,1059,9,4.5
+2025-07-02,South,"Midtown, Atlanta",821,83,11468,8537,2931,8,4.7
+2025-07-03,West,"Beverly Hills, CA",822,61,15514,11715,3799,5,4.3
+2025-07-04,Northeast,"Chelsea, NY",823,125,12942,11326,1616,6,4.8
+2025-07-05,West,"Capitol Hill, WA",824,60,13246,10135,3111,9,4.9
+2025-07-06,West,"Capitol Hill, WA",825,66,8928,7273,1655,9,4.5
+2025-07-07,West,"Hillcrest, San Diego",826,111,12915,11215,1700,8,4.2
+2025-07-08,South,"Hyde Park, Tampa",827,97,8869,5306,3563,10,4.1
+2025-07-09,South,"French Quarter, LA",828,110,13059,9365,3694,10,4.9
+2025-07-10,Northeast,"Back Bay, Boston",829,75,9883,6728,3155,10,4.3
+2025-07-01,South,"The Heights, TX",830,78,10493,8629,1864,6,4.3
+2025-07-02,Midwest,"Uptown, Minneapolis",831,110,9225,5890,3335,10,4.2
+2025-07-03,Midwest,"Downtown, Detroit",832,86,15268,11379,3889,8,4.4
+2025-07-04,West,"Downtown, LA, CA",833,87,10216,7660,2556,9,4.7
+2025-07-05,South,"Buckhead, GA",834,125,14229,11578,2651,7,4.5
+2025-07-06,West,"Capitol Hill, WA",835,50,10854,7572,3282,5,4.4
+2025-07-07,South,"Midtown, Atlanta",836,58,13702,11341,2361,7,4.8
+2025-07-08,West,"Downtown, LA, CA",837,106,14552,10939,3613,9,4.2
+2025-07-09,Northeast,"Downtown, Providence",838,127,12633,9237,3396,8,4.2
+2025-07-10,West,"Beverly Hills, CA",839,124,11330,8363,2967,7,4.1
+2025-07-01,West,"Pearl District, OR",840,80,11672,8676,2996,5,4.1
+2025-07-02,Northeast,"Manhattan, NY",841,85,10145,8008,2137,6,4.2
+2025-07-03,Northeast,"Fishtown, Philly",842,103,11372,8375,2997,6,4.4
+2025-07-04,Northeast,"Downtown, Providence",843,113,9785,7574,2211,6,4.4
+2025-07-05,West,"SoMa, SF, CA",844,52,12292,10609,1683,10,4.8
+2025-07-06,Northeast,"Chelsea, NY",845,90,10873,8615,2258,10,4.8
+2025-07-07,Northeast,"Fishtown, Philly",846,66,8026,6000,2026,6,4.9
+2025-07-08,West,"Pearl District, OR",847,109,11259,7449,3810,7,4.2
+2025-07-09,West,"Beverly Hills, CA",848,95,9646,7430,2216,10,4.7
+2025-07-10,Midwest,"Uptown, Minneapolis",849,126,11697,8106,3591,5,4.2
+2025-07-01,West,"Capitol Hill, WA",850,79,12156,10266,1890,10,4.2
+2025-07-02,Midwest,"Uptown, Minneapolis",851,108,14358,10887,3471,7,4.4
+2025-07-03,Northeast,"Fishtown, Philly",852,83,11090,9775,1315,6,4.9
+2025-07-04,South,"French Quarter, LA",853,128,8843,5940,2903,9,4.2
+2025-07-05,West,"SoMa, SF, CA",854,86,13993,10226,3767,9,4.5
+2025-07-06,South,"Buckhead, GA",855,74,13901,10124,3777,7,4.4
+2025-07-07,West,"SoMa, SF, CA",856,102,13666,10489,3177,9,4.3
+2025-07-08,Northeast,"Fishtown, Philly",857,66,7924,6166,1758,6,4.1
+2025-07-09,Northeast,"Chelsea, NY",858,117,9885,7336,2549,9,4.2
+2025-07-10,Midwest,"Downtown, Detroit",859,77,13165,10925,2240,9,4.7
+2025-07-01,West,"SoMa, SF, CA",860,63,6809,5471,1338,5,4.8
+2025-07-02,Midwest,"Downtown, Detroit",861,61,13878,10948,2930,6,4.5
+2025-07-03,South,"Midtown, Atlanta",862,89,14214,11426,2788,8,4.8
+2025-07-04,South,"Midtown, Atlanta",863,77,9401,5970,3431,5,4.1
+2025-07-05,Midwest,"Uptown, Minneapolis",864,100,15362,11523,3839,7,4.0
+2025-07-06,Midwest,"Downtown, Detroit",865,126,12537,9810,2727,6,4.5
+2025-07-07,South,"French Quarter, LA",866,120,11108,8976,2132,6,4.4
+2025-07-08,South,"Midtown, Atlanta",867,56,13144,9293,3851,7,4.2
+2025-07-09,Northeast,"Manhattan, NY",868,58,8160,6333,1827,6,4.4
+2025-07-10,Northeast,"Manhattan, NY",869,65,13440,10498,2942,5,4.3
+2025-07-01,Midwest,"Downtown, Detroit",870,97,14140,11092,3048,7,4.7
+2025-07-02,West,"SoMa, SF, CA",871,56,14972,11491,3481,5,4.9
+2025-07-03,Northeast,"Fishtown, Philly",872,125,7029,5674,1355,8,4.2
+2025-07-04,Midwest,"Uptown, Minneapolis",873,78,8900,6387,2513,8,4.8
+2025-07-05,Northeast,"Manhattan, NY",874,55,10319,7885,2434,7,4.1
+2025-07-06,Midwest,"Downtown, Detroit",875,100,9443,6823,2620,6,4.5
+2025-07-07,Northeast,"Back Bay, Boston",876,90,9113,7528,1585,10,4.6
+2025-07-08,West,"SoMa, SF, CA",877,90,12372,10528,1844,5,4.0
+2025-07-09,Northeast,"Manhattan, NY",878,58,10896,9156,1740,5,4.2
+2025-07-10,West,"Downtown, LA, CA",879,59,12643,10073,2570,8,4.6
+2025-07-01,South,"Buckhead, GA",880,68,11208,9407,1801,7,4.7
+2025-07-02,Northeast,"Back Bay, Boston",881,119,12179,11012,1167,10,4.4
+2025-07-03,Midwest,"Loop, Chicago, IL",882,97,7917,6508,1409,7,4.2
+2025-07-04,South,"The Heights, TX",883,87,8934,6163,2771,8,4.3
+2025-07-05,South,"French Quarter, LA",884,69,12740,9033,3707,5,4.2
+2025-07-06,South,"The Heights, TX",885,84,12867,9042,3825,5,4.9
+2025-07-07,Northeast,"Manhattan, NY",886,64,6981,5014,1967,9,4.7
+2025-07-08,West,"SoMa, SF, CA",887,50,8550,6686,1864,8,4.6
+2025-07-09,West,"Hillcrest, San Diego",888,55,13511,11382,2129,8,4.2
+2025-07-10,South,"Midtown, Atlanta",889,109,9183,6310,2873,8,4.2
+2025-07-01,West,"Beverly Hills, CA",890,95,14428,11781,2647,10,4.6
+2025-07-02,West,"Hillcrest, San Diego",891,63,10180,8621,1559,8,4.7
+2025-07-03,South,"Midtown, Atlanta",892,123,11507,9636,1871,8,4.7
+2025-07-04,West,"Downtown, LA, CA",893,95,9196,7349,1847,8,4.3
+2025-07-05,West,"Hillcrest, San Diego",894,98,14007,11638,2369,5,4.8
+2025-07-06,Midwest,"Loop, Chicago, IL",895,59,13372,11698,1674,8,4.6
+2025-07-07,West,"Pearl District, OR",896,115,8380,6209,2171,6,4.6
+2025-07-08,West,"Capitol Hill, WA",897,109,10093,6632,3461,9,4.6
+2025-07-09,West,"Hillcrest, San Diego",898,93,7884,5996,1888,6,4.2
+2025-07-10,Midwest,"Short North, Columbus",899,92,8215,7205,1010,10,4.1
+2025-07-01,South,"French Quarter, LA",900,80,11368,7721,3647,9,4.2
+2025-07-02,South,"Hyde Park, Tampa",901,112,10087,6140,3947,10,4.1
+2025-07-03,Northeast,"Chelsea, NY",902,117,10754,6933,3821,6,4.9
+2025-07-04,West,"Downtown, LA, CA",903,121,9777,8144,1633,6,4.4
+2025-07-05,South,"Buckhead, GA",904,54,12210,9274,2936,9,4.0
+2025-07-06,West,"Pearl District, OR",905,61,7677,6362,1315,5,4.4
+2025-07-07,West,"Pearl District, OR",906,72,8111,6836,1275,10,4.8
+2025-07-08,West,"Hillcrest, San Diego",907,55,7142,5284,1858,9,4.3
+2025-07-09,Northeast,"Fishtown, Philly",908,99,11551,8878,2673,9,4.8
+2025-07-10,Midwest,"Downtown, Detroit",909,119,9243,5725,3518,7,4.5
+2025-07-01,West,"Capitol Hill, WA",910,66,14721,11888,2833,10,4.5
+2025-07-02,South,"Midtown, Atlanta",911,93,11856,10487,1369,5,4.2
+2025-07-03,South,"Buckhead, GA",912,112,12691,10279,2412,6,4.8
+2025-07-04,South,"The Heights, TX",913,84,12370,10588,1782,5,4.2
+2025-07-05,Midwest,"Short North, Columbus",914,91,10076,7345,2731,7,4.6
+2025-07-06,Midwest,"Uptown, Minneapolis",915,61,13070,10380,2690,10,4.8
+2025-07-07,Northeast,"Back Bay, Boston",916,83,13697,10754,2943,9,4.2
+2025-07-08,South,"Midtown, Atlanta",917,98,7636,6428,1208,6,4.7
+2025-07-09,West,"SoMa, SF, CA",918,90,10878,8101,2777,10,4.6
+2025-07-10,West,"Pearl District, OR",919,52,8000,5194,2806,7,4.6
+2025-07-01,Northeast,"Manhattan, NY",920,90,9394,6875,2519,5,4.2
+2025-07-02,West,"Capitol Hill, WA",921,79,12744,10102,2642,10,4.2
+2025-07-03,Midwest,"Uptown, Minneapolis",922,63,10269,9239,1030,10,4.4
+2025-07-04,South,"Midtown, Atlanta",923,87,9461,8186,1275,7,4.5
+2025-07-05,West,"Beverly Hills, CA",924,96,9206,7475,1731,6,4.2
+2025-07-06,Midwest,"Uptown, Minneapolis",925,111,10853,8267,2586,6,4.7
+2025-07-07,Midwest,"Uptown, Minneapolis",926,60,10866,8891,1975,10,4.5
+2025-07-08,Midwest,"Uptown, Minneapolis",927,85,7512,5346,2166,6,4.6
+2025-07-09,Midwest,"Uptown, Minneapolis",928,87,10396,9054,1342,8,4.4
+2025-07-10,West,"Downtown, LA, CA",929,72,11617,8452,3165,8,4.3
+2025-07-01,West,"SoMa, SF, CA",930,58,7084,5472,1612,9,4.1
+2025-07-02,Northeast,"Downtown, Providence",931,64,11187,9351,1836,7,4.7
+2025-07-03,Midwest,"Loop, Chicago, IL",932,116,14848,11210,3638,9,4.7
+2025-07-04,West,"Beverly Hills, CA",933,124,9655,6620,3035,7,4.4
+2025-07-05,Midwest,"Loop, Chicago, IL",934,123,8448,6109,2339,8,4.9
+2025-07-06,West,"Capitol Hill, WA",935,50,8753,6046,2707,6,4.4
+2025-07-07,South,"The Heights, TX",936,69,9268,6462,2806,9,4.4
+2025-07-08,West,"Pearl District, OR",937,110,8411,6343,2068,7,4.6
+2025-07-09,Midwest,"Short North, Columbus",938,74,9889,6405,3484,9,4.2
+2025-07-10,Northeast,"Manhattan, NY",939,120,7687,5839,1848,10,4.5
+2025-07-01,Midwest,"Downtown, Detroit",940,75,8323,6162,2161,9,4.8
+2025-07-02,Northeast,"Manhattan, NY",941,57,9530,6845,2685,8,4.0
+2025-07-03,West,"Pearl District, OR",942,123,8141,6391,1750,5,4.7
+2025-07-04,West,"Downtown, LA, CA",943,85,11813,9942,1871,10,4.9
+2025-07-05,South,"Midtown, Atlanta",944,122,12940,11552,1388,6,4.1
+2025-07-06,South,"Buckhead, GA",945,77,12780,11208,1572,10,4.6
+2025-07-07,South,"French Quarter, LA",946,78,11071,8609,2462,8,4.7
+2025-07-08,Midwest,"Short North, Columbus",947,124,13531,10884,2647,8,4.3
+2025-07-09,Northeast,"Downtown, Providence",948,125,11160,8816,2344,7,4.1
+2025-07-10,Midwest,"Loop, Chicago, IL",949,60,9037,6825,2212,10,4.6
+2025-07-01,Northeast,"Manhattan, NY",950,128,9188,6301,2887,9,4.1
+2025-07-02,West,"Beverly Hills, CA",951,115,8950,6114,2836,7,4.9
+2025-07-03,Midwest,"Short North, Columbus",952,54,11550,9331,2219,5,4.7
+2025-07-04,West,"Pearl District, OR",953,104,9805,6711,3094,8,4.1
+2025-07-05,West,"Pearl District, OR",954,95,11839,8164,3675,10,4.3
+2025-07-06,South,"Hyde Park, Tampa",955,103,13216,11668,1548,7,4.2
+2025-07-07,Northeast,"Fishtown, Philly",956,55,9578,6098,3480,7,4.5
+2025-07-08,Midwest,"Loop, Chicago, IL",957,115,9555,8436,1119,6,4.3
+2025-07-09,Northeast,"Downtown, Providence",958,99,12594,10944,1650,5,4.2
+2025-07-10,Northeast,"Back Bay, Boston",959,79,10937,8725,2212,9,4.7
+2025-07-01,South,"Buckhead, GA",960,88,12505,11228,1277,9,4.6
+2025-07-02,South,"The Heights, TX",961,52,12490,10945,1545,6,4.1
+2025-07-03,West,"Hillcrest, San Diego",962,84,11942,8367,3575,8,4.2
+2025-07-04,South,"Hyde Park, Tampa",963,98,10133,8108,2025,8,4.9
+2025-07-05,Northeast,"Fishtown, Philly",964,79,10691,8090,2601,9,4.8
+2025-07-06,South,"Hyde Park, Tampa",965,60,6465,5146,1319,5,4.6
+2025-07-07,West,"Hillcrest, San Diego",966,54,11876,8603,3273,7,4.8
+2025-07-08,West,"Capitol Hill, WA",967,52,8257,5934,2323,6,4.7
+2025-07-09,Northeast,"Fishtown, Philly",968,76,13044,9992,3052,9,4.2
+2025-07-10,West,"Hillcrest, San Diego",969,127,10370,8785,1585,6,4.7
+2025-07-01,Northeast,"Chelsea, NY",970,57,13423,10130,3293,9,4.4
+2025-07-02,Northeast,"Back Bay, Boston",971,127,14723,11392,3331,8,4.7
+2025-07-03,West,"Downtown, LA, CA",972,61,13109,11871,1238,7,4.9
+2025-07-04,South,"Buckhead, GA",973,102,12566,10571,1995,8,4.6
+2025-07-05,Northeast,"Manhattan, NY",974,128,8652,7555,1097,9,4.4
+2025-07-06,West,"Capitol Hill, WA",975,71,10909,7593,3316,9,4.7
+2025-07-07,West,"Pearl District, OR",976,108,10657,7792,2865,8,4.7
+2025-07-08,Northeast,"Chelsea, NY",977,51,11636,10472,1164,8,4.7
+2025-07-09,South,"French Quarter, LA",978,95,12133,8335,3798,9,4.7
+2025-07-10,Northeast,"Fishtown, Philly",979,108,8501,6718,1783,8,4.1
+2025-07-01,West,"Hillcrest, San Diego",980,123,7040,5769,1271,6,4.1
+2025-07-02,Northeast,"Manhattan, NY",981,112,7406,6210,1196,10,4.9
+2025-07-03,Northeast,"Back Bay, Boston",982,102,11750,8305,3445,10,4.8
+2025-07-04,Midwest,"Loop, Chicago, IL",983,67,12351,11336,1015,9,4.6
+2025-07-05,Midwest,"Loop, Chicago, IL",984,77,11059,8452,2607,10,4.7
+2025-07-06,Midwest,"Loop, Chicago, IL",985,108,9539,6934,2605,8,4.6
+2025-07-07,West,"Capitol Hill, WA",986,82,10792,8552,2240,7,4.0
+2025-07-08,Midwest,"Short North, Columbus",987,76,9523,7137,2386,6,4.6
+2025-07-09,Midwest,"Short North, Columbus",988,81,8203,6590,1613,8,4.1
+2025-07-10,Northeast,"Fishtown, Philly",989,112,11265,7611,3654,5,4.5
+2025-07-01,West,"SoMa, SF, CA",990,104,12917,10130,2787,8,4.6
+2025-07-02,South,"French Quarter, LA",991,85,11289,8838,2451,8,4.1
+2025-07-03,South,"Buckhead, GA",992,53,11225,8733,2492,8,4.9
+2025-07-04,West,"Capitol Hill, WA",993,60,10566,7122,3444,8,4.2
+2025-07-05,West,"Beverly Hills, CA",994,70,11892,7986,3906,9,4.2
+2025-07-06,West,"Pearl District, OR",995,93,10960,9196,1764,7,4.5
+2025-07-07,South,"Buckhead, GA",996,52,12734,10963,1771,6,4.3
+2025-07-08,Northeast,"Fishtown, Philly",997,101,12818,11387,1431,8,4.8
+2025-07-09,South,"Hyde Park, Tampa",998,120,10073,7965,2108,10,4.3
+2025-07-10,Midwest,"Short North, Columbus",999,101,8936,7784,1152,7,4.7
+2025-07-01,Northeast,"Chelsea, NY",1000,120,13796,10672,3124,7,4.9
+2025-07-02,Northeast,"Fishtown, Philly",1001,103,9574,6015,3559,6,4.4
+2025-07-03,West,"Downtown, LA, CA",1002,71,11214,7762,3452,10,4.2
+2025-07-04,West,"SoMa, SF, CA",1003,98,7484,5532,1952,7,4.0
+2025-07-05,Northeast,"Back Bay, Boston",1004,129,8530,7048,1482,9,4.0
+2025-07-06,South,"The Heights, TX",1005,62,8460,7109,1351,9,4.3
+2025-07-07,Midwest,"Downtown, Detroit",1006,77,8692,5844,2848,6,4.5
+2025-07-08,South,"Hyde Park, Tampa",1007,127,12384,9112,3272,5,4.1
+2025-07-09,West,"Pearl District, OR",1008,127,12998,10743,2255,6,4.4
+2025-07-10,West,"Downtown, LA, CA",1009,64,9299,7841,1458,9,4.9
+2025-07-01,Northeast,"Chelsea, NY",1010,53,9878,7598,2280,5,4.4
+2025-07-02,West,"Hillcrest, San Diego",1011,100,11883,8425,3458,5,4.5
+2025-07-03,West,"Hillcrest, San Diego",1012,98,9352,7369,1983,5,4.4
+2025-07-04,South,"Buckhead, GA",1013,129,13824,11693,2131,8,4.4
+2025-07-05,Northeast,"Fishtown, Philly",1014,69,8260,7121,1139,8,4.1
+2025-07-06,Midwest,"Downtown, Detroit",1015,69,13778,10606,3172,8,4.2
+2025-07-07,Northeast,"Back Bay, Boston",1016,114,6787,5405,1382,10,4.7
+2025-07-08,Midwest,"Downtown, Detroit",1017,51,8376,6235,2141,8,4.2
+2025-07-09,South,"The Heights, TX",1018,112,11732,10242,1490,9,4.3
+2025-07-10,Northeast,"Back Bay, Boston",1019,84,11846,9003,2843,7,4.2
+2025-07-01,Northeast,"Fishtown, Philly",1020,51,11019,9355,1664,7,4.7
+2025-07-02,West,"SoMa, SF, CA",1021,76,10303,8470,1833,9,4.2
+2025-07-03,West,"Hillcrest, San Diego",1022,94,14913,11540,3373,10,4.4
+2025-07-04,South,"Buckhead, GA",1023,57,9645,7077,2568,6,4.6
+2025-07-05,South,"Hyde Park, Tampa",1024,122,12108,9152,2956,7,4.7
+2025-07-06,Northeast,"Fishtown, Philly",1025,126,13119,9759,3360,8,4.6
+2025-07-07,West,"Beverly Hills, CA",1026,104,7594,5435,2159,10,4.8
+2025-07-08,West,"Hillcrest, San Diego",1027,95,9572,7971,1601,6,4.5
+2025-07-09,South,"French Quarter, LA",1028,103,15291,11727,3564,8,4.3
+2025-07-10,Midwest,"Loop, Chicago, IL",1029,107,9811,6798,3013,10,4.0
+2025-07-01,West,"Beverly Hills, CA",1030,64,12124,9601,2523,9,4.3
+2025-07-02,Northeast,"Chelsea, NY",1031,130,12476,9537,2939,6,4.2
+2025-07-03,South,"The Heights, TX",1032,54,10425,6932,3493,5,4.5
+2025-07-04,Northeast,"Chelsea, NY",1033,95,7909,6761,1148,7,4.1
+2025-07-05,Midwest,"Downtown, Detroit",1034,104,12595,8904,3691,5,4.7
+2025-07-06,Northeast,"Back Bay, Boston",1035,78,10204,8838,1366,8,4.3
+2025-07-07,West,"Capitol Hill, WA",1036,97,11444,9106,2338,7,4.9
+2025-07-08,West,"Hillcrest, San Diego",1037,57,10439,7606,2833,6,4.3
+2025-07-09,West,"Pearl District, OR",1038,58,10899,8450,2449,7,4.2
+2025-07-10,West,"Downtown, LA, CA",1039,108,11662,9939,1723,7,4.7
+2025-07-01,West,"SoMa, SF, CA",1040,108,12002,9071,2931,10,4.6
+2025-07-02,Northeast,"Manhattan, NY",1041,75,13827,10625,3202,9,4.4
+2025-07-03,West,"Hillcrest, San Diego",1042,122,12531,9474,3057,9,4.8
+2025-07-04,Northeast,"Back Bay, Boston",1043,108,9815,8814,1001,10,4.6
+2025-07-05,Northeast,"Downtown, Providence",1044,110,9616,8092,1524,7,4.9
+2025-07-06,Northeast,"Back Bay, Boston",1045,91,8321,5015,3306,8,4.1
+2025-07-07,Midwest,"Uptown, Minneapolis",1046,53,8127,6352,1775,10,4.4
+2025-07-08,Northeast,"Downtown, Providence",1047,83,14095,10444,3651,7,4.4
+2025-07-09,Northeast,"Back Bay, Boston",1048,89,12030,10730,1300,5,4.7
+2025-07-10,West,"Downtown, LA, CA",1049,90,14362,11482,2880,10,4.2
+2025-07-01,South,"Buckhead, GA",1050,103,6329,5158,1171,9,4.2
+2025-07-02,Midwest,"Downtown, Detroit",1051,67,9583,7606,1977,5,4.5
+2025-07-03,Northeast,"Manhattan, NY",1052,93,10474,7056,3418,9,4.1
+2025-07-04,Midwest,"Uptown, Minneapolis",1053,116,10760,7415,3345,9,4.1
+2025-07-05,Midwest,"Short North, Columbus",1054,126,12646,9930,2716,7,4.7
+2025-07-06,West,"Pearl District, OR",1055,94,13693,10103,3590,7,4.8
+2025-07-07,Midwest,"Short North, Columbus",1056,72,8971,5369,3602,9,4.4
+2025-07-08,West,"Pearl District, OR",1057,127,11974,8972,3002,8,4.9
+2025-07-09,Northeast,"Fishtown, Philly",1058,72,7593,5103,2490,6,4.0
+2025-07-10,Midwest,"Loop, Chicago, IL",1059,65,10970,7009,3961,9,4.1
+2025-07-01,Midwest,"Downtown, Detroit",1060,118,10337,8570,1767,6,4.1
+2025-07-02,Midwest,"Loop, Chicago, IL",1061,72,11444,8800,2644,8,4.4
+2025-07-03,Northeast,"Fishtown, Philly",1062,68,14450,11184,3266,5,4.1
+2025-07-04,West,"Downtown, LA, CA",1063,99,8637,6764,1873,10,4.5
+2025-07-05,Midwest,"Loop, Chicago, IL",1064,69,7286,6249,1037,5,4.2
+2025-07-06,South,"French Quarter, LA",1065,64,12863,11422,1441,7,4.8
+2025-07-07,West,"Hillcrest, San Diego",1066,106,8357,5131,3226,9,4.6
+2025-07-08,Northeast,"Fishtown, Philly",1067,81,10830,7143,3687,10,4.2
+2025-07-09,Northeast,"Manhattan, NY",1068,84,6658,5151,1507,8,4.9
+2025-07-10,Northeast,"Fishtown, Philly",1069,126,8630,7574,1056,7,4.1
+2025-07-01,South,"The Heights, TX",1070,77,7790,6618,1172,10,4.2
+2025-07-02,West,"Hillcrest, San Diego",1071,68,13290,11444,1846,9,4.4
+2025-07-03,West,"SoMa, SF, CA",1072,78,13664,10132,3532,10,4.6
+2025-07-04,West,"Pearl District, OR",1073,129,10194,8282,1912,9,4.3
+2025-07-05,Midwest,"Downtown, Detroit",1074,86,9782,5959,3823,10,4.2
+2025-07-06,West,"Hillcrest, San Diego",1075,90,12116,8920,3196,9,4.8
+2025-07-07,South,"Hyde Park, Tampa",1076,109,7143,5244,1899,10,4.9
+2025-07-08,South,"Buckhead, GA",1077,111,9098,7873,1225,9,4.1
+2025-07-09,Northeast,"Chelsea, NY",1078,101,9031,7830,1201,7,4.5
+2025-07-10,South,"The Heights, TX",1079,97,13166,10717,2449,7,4.1
+2025-07-01,Midwest,"Short North, Columbus",1080,78,13825,10450,3375,7,4.5
+2025-07-02,Northeast,"Back Bay, Boston",1081,87,15203,11834,3369,5,4.7
+2025-07-03,West,"Beverly Hills, CA",1082,55,11403,9145,2258,7,4.0
+2025-07-04,Midwest,"Downtown, Detroit",1083,53,9475,8049,1426,6,4.2
+2025-07-05,South,"French Quarter, LA",1084,118,11338,10130,1208,5,4.1
+2025-07-06,Northeast,"Fishtown, Philly",1085,83,10341,7191,3150,5,4.4
+2025-07-07,Midwest,"Uptown, Minneapolis",1086,83,9957,7779,2178,9,4.8
+2025-07-08,Midwest,"Downtown, Detroit",1087,88,10133,9029,1104,8,4.3
+2025-07-09,Midwest,"Uptown, Minneapolis",1088,68,10726,8951,1775,10,4.5
+2025-07-10,Northeast,"Fishtown, Philly",1089,122,13806,11808,1998,10,4.7
+2025-07-01,Northeast,"Manhattan, NY",1090,94,11341,8765,2576,10,4.7
+2025-07-02,South,"Midtown, Atlanta",1091,67,13086,11387,1699,8,4.7
+2025-07-03,South,"Midtown, Atlanta",1092,77,8176,6266,1910,10,4.9
+2025-07-04,Northeast,"Downtown, Providence",1093,128,8987,6723,2264,10,4.9
+2025-07-05,Northeast,"Back Bay, Boston",1094,109,10414,7220,3194,7,4.7
+2025-07-06,Northeast,"Fishtown, Philly",1095,80,12327,10675,1652,5,4.1
+2025-07-07,West,"Downtown, LA, CA",1096,118,14300,11227,3073,9,4.4
+2025-07-08,South,"Hyde Park, Tampa",1097,86,11306,7393,3913,6,4.4
+2025-07-09,South,"The Heights, TX",1098,95,9409,7838,1571,6,4.4
+2025-07-10,Northeast,"Downtown, Providence",1099,101,9889,7425,2464,10,4.2
