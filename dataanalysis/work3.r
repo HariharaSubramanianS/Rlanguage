@@ -1,4 +1,10 @@
 options(repos= c(CRAN = "https://cloud.r-project.org"))
+
+if(!require(randomForest)) {
+    install.packages('randomForest', dependencies = TRUE)
+    library(randomForest)
+}
+
 mall_data <- read.csv('dataset\\Mall_customers.csv', stringsAsFactors = TRUE)
 
 num_data <- mall_data[ c('Spending_Score', 'Age', 'Annual_Income')]
@@ -14,3 +20,8 @@ cat("\n--- K-means Clustering (3 clusters) ---\n")
 print(kmeans_result$centers)
 cat("\nCluster assignments: \n")
 print(table(kmeans_result$cluster))
+
+#Random Forest Attribution
+rf_model <- randomForest(Genre ~ Age + Annual_Income + Spending_Score , data=mall_data, ntree=100)
+cat("\n--- Randomforest Model summary (Genre) ---\n")
+print(rf_model)
