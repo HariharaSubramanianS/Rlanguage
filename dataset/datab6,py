@@ -1,0 +1,36 @@
+import sqlite3
+import pandas as pd
+
+def csv_to_sqlite(HospitalData , medicaldata , hosdata):
+    df = pd.read_csv(HospitalData)
+
+    conn = sqlite3.connect(medicaldata)
+    df.to_sql( hosdata , conn, if_exists='replace', index=False)
+
+    conn.commit()
+    conn.close()
+    print(f"CSV data from '{HospitalData}' has been written to '{medicaldata}' in table '{hosdata}'.")
+
+
+
+#csv_to_sqlite("dataset\HospitalData.csv", "medicaldata.sqlite", "hosdata")
+
+
+conn = sqlite3.connect("medicaldata.sqlite")
+cursor = conn.cursor()
+
+
+print("=== Hospital Data Analysis ===\n")
+
+cursor.execute("SELECT COUNT(*) FROM hosdata")
+print("Total Patients:", cursor.fetchone()[0])
+
+
+
+
+
+cursor.execute("SELECT Diagnosis, COUNT(*) FROM hosdata GROUP BY Diagnosis")
+print("\nDiagnosis Distribution:")
+for row in cursor.fetchall():
+    print(row)
+

@@ -44,4 +44,44 @@ for i in range(25):
 
 # Commit and close
 conn.commit()
-conn.close()
+
+# Step 3: Data Analysis
+print("\n=== Student Data Analysis ===\n")
+
+
+# 1. Highest Mark Student
+cursor.execute("SELECT student_name, average_mark FROM students ORDER BY average_mark DESC LIMIT 1")
+print("Top Student:", cursor.fetchone())
+
+# 2. Lowest Mark Student
+cursor.execute("SELECT student_name, average_mark FROM students ORDER BY average_mark ASC LIMIT 1")
+print("Lowest Student:", cursor.fetchone())
+
+# 3. Class-wise Average Marks
+cursor.execute("SELECT class, average_mark FROM students GROUP BY class")
+print("\nClass-wise Average Marks:")
+for row in cursor.fetchall():
+    print(row)
+
+# 4. Teacher-wise Average Marks
+cursor.execute("SELECT teacher_name , average_mark FROM students GROUP BY teacher_name")
+print("\nTeacher-wise Average Marks:")
+for row in cursor.fetchall():
+    print(row)
+
+# 5. Pass/Fail Count (Pass mark = 50)
+cursor.execute("SELECT COUNT(*) FROM students WHERE average_mark >= 50")
+passed = cursor.fetchone()[0]
+
+cursor.execute("SELECT COUNT(*) FROM students WHERE average_mark < 50")
+failed = cursor.fetchone()[0]
+
+print("\nPass Count:", passed)
+print("Fail Count:", failed)
+
+# 6. Total Students
+cursor.execute("SELECT COUNT(*) FROM students")
+print("\nTotal Students:", cursor.fetchone()[0])
+
+# Close DB
+conn.close

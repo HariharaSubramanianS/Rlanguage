@@ -1,0 +1,51 @@
+AppointmentID,PatientID,DoctorID,AppointmentDate,Diagnosis,Prescription
+3001,1025,2044,2025-04-08,Checkup,War
+3002,1001,2028,2025-05-20,Skin Allergy,Own
+3003,1037,2007,2025-07-08,Injury,Offer
+3004,1023,2013,2025-05-17,Skin Allergy,Year
+3005,1049,2026,2025-03-09,Skin Allergy,Right
+3006,1049,2033,2025-07-29,Diabetes,Wife
+3007,1019,2050,2025-03-12,Injury,Western
+3008,1014,2013,2025-08-08,Diabetes,Easy
+3009,1045,2026,2025-08-31,Injury,Operation
+3010,1020,2012,2025-07-09,Checkup,For
+3011,1025,2022,2025-04-08,Checkup,Forget
+3012,1025,2027,2025-05-04,Checkup,May
+3013,1050,2010,2025-04-14,Hypertension,Discover
+3014,1050,2004,2025-08-17,Diabetes,Could
+3015,1047,2032,2025-03-14,Checkup,Spend
+3016,1032,2005,2025-03-29,Heart Disease,Responsibility
+3017,1016,2047,2025-03-16,Hypertension,Large
+3018,1013,2004,2025-03-31,Heart Disease,Southern
+3019,1001,2037,2025-03-27,Flu,Institution
+3020,1036,2018,2025-07-28,Injury,Against
+3021,1035,2006,2025-07-01,Checkup,Maybe
+3022,1004,2050,2025-03-27,Diabetes,Ok
+3023,1001,2023,2025-05-15,Injury,Husband
+3024,1002,2022,2025-05-29,Checkup,Be
+3025,1035,2032,2025-05-16,Skin Allergy,Drug
+3026,1046,2047,2025-06-23,Skin Allergy,Third
+3027,1025,2048,2025-09-05,Diabetes,Answer
+3028,1018,2007,2025-05-20,Hypertension,Trade
+3029,1011,2031,2025-08-14,Checkup,Ready
+3030,1036,2047,2025-03-31,Diabetes,Over
+3031,1003,2046,2025-07-06,Heart Disease,Everybody
+3032,1016,2025,2025-03-16,Heart Disease,Country
+3033,1020,2044,2025-03-26,Diabetes,Away
+3034,1034,2046,2025-07-18,Flu,Whose
+3035,1047,2039,2025-06-10,Flu,Own
+3036,1046,2017,2025-08-30,Hypertension,Try
+3037,1007,2019,2025-05-11,Hypertension,Why
+3038,1033,2041,2025-06-26,Checkup,Huge
+3039,1048,2041,2025-06-27,Checkup,Later
+3040,1043,2007,2025-07-03,Skin Allergy,Myself
+3041,1008,2011,2025-03-13,Skin Allergy,Care
+3042,1040,2041,2025-03-27,Skin Allergy,Piece
+3043,1048,2050,2025-05-21,Injury,Represent
+3044,1021,2048,2025-06-27,Diabetes,About
+3045,1003,2041,2025-08-05,Skin Allergy,Blue
+3046,1020,2025,2025-07-29,Hypertension,Million
+3047,1005,2035,2025-07-25,Hypertension,Focus
+3048,1048,2012,2025-03-25,Heart Disease,Need
+3049,1038,2044,2025-08-12,Hypertension,Behavior
+3050,1045,2007,2025-05-08,Heart Disease,Me
